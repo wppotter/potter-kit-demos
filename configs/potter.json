@@ -12,8 +12,7 @@
     "others": "Others"
   },
   "pagebuilders": {
-    "elementor": "Elementor",
-    "beaverbuilder": "Beaver Builder"
+    "elementor": "Elementor"
   },
   "demos": {
     "potter-travel": {
