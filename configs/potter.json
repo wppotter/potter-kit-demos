@@ -12,6 +12,7 @@
     "others": "Others"
   },
   "pagebuilders": {
+    "all": "All",
     "elementor": "Elementor",
     "bbuilder": "Beaver Builder"
   },
@@ -29,6 +30,7 @@
         "others"
       ],
       "pagebuilder": [
+        "all",
         "bbuilder"
       ],
       "plugins_list": {
