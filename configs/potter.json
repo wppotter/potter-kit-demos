@@ -12,7 +12,8 @@
     "others": "Others"
   },
   "pagebuilders": {
-    "elementor": "Elementor"
+    "elementor": "Elementor",
+    "bbuilder": "Beaver Builder"
   },
   "demos": {
     "potter-travel": {
@@ -28,7 +29,7 @@
         "others"
       ],
       "pagebuilder": [
-        "elementor"
+        "bbuilder"
       ],
       "plugins_list": {
         "everest-forms": {
