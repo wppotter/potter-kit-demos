@@ -82,8 +82,8 @@
     },
     "potter-spa": {
       "title": "Spa",
-      "preview": "https://zakrademos.com/spa/",
-      "description": "Use this Zakra demo to create your travel-friendly website.",
+      "preview": "https://demos.wppotter.com/potter-spa-elementor/",
+      "description": "Use this spa demo to create your spa-friendly website in no time.",
       "template": [
         "potter"
       ],
@@ -97,19 +97,16 @@
         "elementor"
       ],
       "plugins_list": {
-        "everest-forms": {
-          "name": "Everest Forms",
-          "slug": "everest-forms/everest-forms.php"
-        },
+
         "elementor": {
           "name": "Elementor",
           "slug": "elementor/elementor.php"
         }
       },
       "core_options": {
-        "blogname": "Zakra Travel2",
+        "blogname": "Potter Spa",
         "page_on_front": "Home",
-        "page_for_posts": "Blog"
+        "page_for_posts": "Sample Page"
       },
       "elementor_schemes": {
         "color": [
@@ -120,26 +117,26 @@
         ],
         "typography": {
           "primary": {
-            "font_family": "Poppins",
-            "font_weight": "Bold"
+            "font_family": "Cormorant Garamond",
+            "font_weight": "500"
           },
           "secondary": {
-            "font_family": "Poppins",
+            "font_family": "Cormorant Garamond",
             "font_weight": "600"
           },
           "body": {
-            "font_family": "Poppins",
+            "font_family": "Muli",
             "font_weight": "400"
           },
           "accent": {
-            "font_family": "Poppins",
+            "font_family": "Muli",
             "font_weight": "500"
           }
         }
       },
       "customizer_data_update": {
         "nav_menu_locations": {
-          "menu-primary": "Primary"
+          "main_menu": "Main Menu"
         }
       }
     }
