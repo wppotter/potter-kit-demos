@@ -139,6 +139,39 @@
           "main_menu": "Main Menu"
         }
       }
+    },
+    "potter-agency": {
+      "title": "Agency",
+      "preview": "https://demos.wppotter.com/potter-agency-bbuilder/",
+      "description": "Use this agency demo to create your agency-friendly website in no time.",
+      "template": [
+        "potter"
+      ],
+      "category": [
+        "all",
+        "business",
+        "others"
+      ],
+      "pagebuilder": [
+        "all",
+        "bbuilder"
+      ],
+      "plugins_list": {
+        "elementor": {
+          "name": "Beaver Builder",
+          "slug": "beaver-builder-lite-version/fl-builder.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Potter Agency",
+        "page_on_front": "Home",
+        "page_for_posts": "Sample Page"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "main_menu": "Main Menu"
+        }
+      }
     }
   }
 }
