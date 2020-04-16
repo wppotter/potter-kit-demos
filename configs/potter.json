@@ -142,7 +142,7 @@
     },
     "potter-agency": {
       "title": "Agency",
-      "preview": "https://demos.wppotter.com/potter-agency-bbuilder/",
+      "preview": "https://demos.wppotter.com/digital-agency-bbuilder/",
       "description": "Use this agency demo to create your agency-friendly website in no time.",
       "template": [
         "potter"
@@ -157,7 +157,7 @@
         "bbuilder"
       ],
       "plugins_list": {
-        "elementor": {
+        "beaver-builder-lite-version": {
           "name": "Beaver Builder",
           "slug": "beaver-builder-lite-version/fl-builder.php"
         }
