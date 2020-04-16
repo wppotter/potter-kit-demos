@@ -80,9 +80,9 @@
         }
       }
     },
-    "potter-travel2": {
-      "title": "Travel2",
-      "preview": "https://zakrademos.com/travel2/",
+    "potter-spa": {
+      "title": "Spa",
+      "preview": "https://zakrademos.com/spa/",
       "description": "Use this Zakra demo to create your travel-friendly website.",
       "template": [
         "potter"
