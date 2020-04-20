@@ -97,7 +97,6 @@
         "elementor"
       ],
       "plugins_list": {
-
         "elementor": {
           "name": "Elementor",
           "slug": "elementor/elementor.php"
