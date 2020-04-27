@@ -249,8 +249,8 @@
     },
     "potter-saas-landingpage": {
       "title": "SaaS Landing Page",
-      "preview": "https://demos.wppotter.com/brand-store-elementor/",
-      "description": "Use this agency demo to create your WooCommerce Store-friendly website in no time.",
+      "preview": "https://demos.wppotter.com/saasapp-landingpage-elementor/",
+      "description": "Use this agency demo to create your Saas APP Landing page -friendly website in no time.",
       "template": [
         "potter"
       ],
