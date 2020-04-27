@@ -43,7 +43,7 @@
       "core_options": {
         "blogname": "Potter Spa",
         "page_on_front": "Home",
-        "page_for_posts": "Sample Page"
+        "page_for_posts": "Blog"
       },
       "elementor_schemes": {
         "color": [
@@ -106,8 +106,7 @@
       },
       "core_options": {
         "blogname": "Potter Digital Agency",
-        "page_on_front": "Home",
-        "page_for_posts": "Sample Page"
+        "page_on_front": "Home"
       },
       "customizer_data_update": {
         "nav_menu_locations": {
@@ -140,8 +139,7 @@
       },
       "core_options": {
         "blogname": "Potter Fitness Influencer",
-        "page_on_front": "Home",
-        "page_for_posts": "Sample Page"
+        "page_on_front": "Home"
       },
       "customizer_data_update": {
         "nav_menu_locations": {
@@ -183,8 +181,7 @@
       },
       "core_options": {
         "blogname": "Potter Brand Store",
-        "page_on_front": "Home",
-        "page_for_posts": "Sample Page"
+        "page_on_front": "Home"
       },
       "customizer_data_update": {
         "nav_menu_locations": {
@@ -218,8 +215,7 @@
       },
       "core_options": {
         "blogname": "Potter Saas Landing Page",
-        "page_on_front": "Home",
-        "page_for_posts": "Sample Page"
+        "page_on_front": "Home"
       },
       "customizer_data_update": {
         "nav_menu_locations": {
