@@ -18,41 +18,6 @@
     "gutenberg": "Gutenberg"
   },
   "demos": {
-    "potter-travel-blog": {
-      "title": "Travel Blog",
-      "preview": "https://demos.wppotter.com/travel-blog-gutenberg/",
-      "description": "Use this demo to create your travel blog-friendly website.",
-      "template": [
-        "potter"
-      ],
-      "category": [
-        "all",
-        "business",
-        "blog",
-        "others"
-      ],
-      "pagebuilder": [
-        "all",
-        "gutenberg"
-      ],
-      "plugins_list": {
-        "getwid": {
-          "name": "Getwid",
-          "slug": "getwid/getwid.php"
-        }
-      },
-      "core_options": {
-        "blogname": "Potter Travel Blog",
-        "page_on_front": "Home",
-        "page_for_posts": "Blog"
-      },
-      "customizer_data_update": {
-        "nav_menu_locations": {
-          "main_menu": "Mainmenu",
-          "mobile_menu": "Mainmenu"
-        }
-      }
-    },
     "potter-spa": {
       "title": "Spa",
       "preview": "https://demos.wppotter.com/potter-spa-elementor/",
@@ -260,6 +225,41 @@
         "nav_menu_locations": {
           "main_menu": "main",
           "mobile_menu": "main"
+        }
+      }
+    },
+    "potter-travel-blog": {
+      "title": "Travel Blog",
+      "preview": "https://demos.wppotter.com/travel-blog-gutenberg/",
+      "description": "Use this demo to create your travel blog-friendly website.",
+      "template": [
+        "potter"
+      ],
+      "category": [
+        "all",
+        "business",
+        "blog",
+        "others"
+      ],
+      "pagebuilder": [
+        "all",
+        "gutenberg"
+      ],
+      "plugins_list": {
+        "getwid": {
+          "name": "Getwid",
+          "slug": "getwid/getwid.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Potter Travel Blog",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "main_menu": "Mainmenu",
+          "mobile_menu": "Mainmenu"
         }
       }
     }
