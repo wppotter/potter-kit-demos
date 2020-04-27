@@ -2,7 +2,7 @@
   "name": "Potter",
   "slug": "potter",
   "version": "1.0.0",
-  "homepage": "https://zakratheme.com/pricing/?utm_source=demo-import-screen&utm_medium=buy-now-link&utm_campaign=zakra-pricing",
+  "homepage": "https://pottertheme.com/",
   "categories": {
     "all": "All",
     "blog": "Blog",
@@ -14,69 +14,42 @@
   "pagebuilders": {
     "all": "All",
     "elementor": "Elementor",
-    "bbuilder": "Beaver Builder"
+    "bbuilder": "Beaver Builder",
+    "gutenberg": "Gutenberg"
   },
   "demos": {
-    "potter-travel": {
-      "title": "Travel",
-      "preview": "https://zakrademos.com/travel/",
-      "description": "Use this Zakra demo to create your travel-friendly website.",
+    "potter-travel-blog": {
+      "title": "Travel Blog",
+      "preview": "https://demos.wppotter.com/travel-blog-gutenberg/",
+      "description": "Use this demo to create your travel blog-friendly website.",
       "template": [
         "potter"
       ],
       "category": [
         "all",
         "business",
+        "blog",
         "others"
       ],
       "pagebuilder": [
         "all",
-        "bbuilder"
+        "gutenberg"
       ],
       "plugins_list": {
-        "everest-forms": {
-          "name": "Everest Forms",
-          "slug": "everest-forms/everest-forms.php"
-        },
-        "elementor": {
-          "name": "Elementor",
-          "slug": "elementor/elementor.php"
+        "getwid": {
+          "name": "Getwid",
+          "slug": "getwid/getwid.php"
         }
       },
       "core_options": {
-        "blogname": "Zakra Travel",
+        "blogname": "Potter Travel Blog",
         "page_on_front": "Home",
         "page_for_posts": "Blog"
       },
-      "elementor_schemes": {
-        "color": [
-          "#f2911c",
-          "#111111",
-          "#3e3e3e",
-          "#f2911c"
-        ],
-        "typography": {
-          "primary": {
-            "font_family": "Poppins",
-            "font_weight": "Bold"
-          },
-          "secondary": {
-            "font_family": "Poppins",
-            "font_weight": "600"
-          },
-          "body": {
-            "font_family": "Poppins",
-            "font_weight": "400"
-          },
-          "accent": {
-            "font_family": "Poppins",
-            "font_weight": "500"
-          }
-        }
-      },
       "customizer_data_update": {
         "nav_menu_locations": {
-          "menu-primary": "Primary"
+          "main_menu": "Mainmenu",
+          "mobile_menu": "Mainmenu"
         }
       }
     },
@@ -135,14 +108,15 @@
       },
       "customizer_data_update": {
         "nav_menu_locations": {
-          "main_menu": "Main Menu"
+          "main_menu": "Main Menu",
+          "mobile_menu": "Main Menu"
         }
       }
     },
-    "potter-agency": {
-      "title": "Agency",
+    "potter-digital-agency": {
+      "title": "Digital Agency",
       "preview": "https://demos.wppotter.com/digital-agency-bbuilder/",
-      "description": "Use this agency demo to create your agency-friendly website in no time.",
+      "description": "Use this agency demo to create your digital agency-friendly website in no time.",
       "template": [
         "potter"
       ],
@@ -159,16 +133,133 @@
         "beaver-builder-lite-version": {
           "name": "Beaver Builder",
           "slug": "beaver-builder-lite-version/fl-builder.php"
+        },
+        "wpforms-lite": {
+          "name": "WPForms",
+          "slug": "wpforms-lite/wpforms.php"
         }
       },
       "core_options": {
-        "blogname": "Potter Agency",
+        "blogname": "Potter Digital Agency",
         "page_on_front": "Home",
         "page_for_posts": "Sample Page"
       },
       "customizer_data_update": {
         "nav_menu_locations": {
-          "main_menu": "Main Menu"
+          "main_menu": "Menu",
+          "mobile_menu": "Menu"
+        }
+      }
+    },
+    "potter-fitness-influencer": {
+      "title": "Fitness Influencer",
+      "preview": "https://demos.wppotter.com/fitness-influencer-elementor/",
+      "description": "Use this agency demo to create your Fitness Influencer-friendly website in no time.",
+      "template": [
+        "potter"
+      ],
+      "category": [
+        "all",
+        "business",
+        "others"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Potter Fitness Influencer",
+        "page_on_front": "Home",
+        "page_for_posts": "Sample Page"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "main_menu": "main",
+          "mobile_menu": "main"
+        }
+      }
+    },
+    "potter-brand-store": {
+      "title": "Brand Store",
+      "preview": "https://demos.wppotter.com/brand-store-elementor/",
+      "description": "Use this agency demo to create your WooCommerce Store-friendly website in no time.",
+      "template": [
+        "potter"
+      ],
+      "category": [
+        "all",
+        "business",
+        "ecommerce",
+        "others"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "woocommerce": {
+          "name": "WooCommerce",
+          "slug": "woocommerce/woocommerce.php"
+        },
+        "wpforms-lite": {
+          "name": "WPForms",
+          "slug": "wpforms-lite/wpforms.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Potter Brand Store",
+        "page_on_front": "Home",
+        "page_for_posts": "Sample Page"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "main_menu": "Main Menu",
+          "mobile_menu": "Main Menu",
+          "nav_left_menu": "left"
+        }
+      }
+    },
+    "potter-saas-landingpage": {
+      "title": "SaaS Landing Page",
+      "preview": "https://demos.wppotter.com/brand-store-elementor/",
+      "description": "Use this agency demo to create your WooCommerce Store-friendly website in no time.",
+      "template": [
+        "potter"
+      ],
+      "category": [
+        "all",
+        "business",
+        "others"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Potter Saas Landing Page",
+        "page_on_front": "Home",
+        "page_for_posts": "Sample Page"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "main_menu": "main",
+          "mobile_menu": "main"
         }
       }
     }
