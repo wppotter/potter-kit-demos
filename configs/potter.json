@@ -99,6 +99,10 @@
           "name": "Beaver Builder",
           "slug": "beaver-builder-lite-version/fl-builder.php"
         },
+        "ultimate-addons-for-beaver-builder-lite": {
+          "name": "Ultimate Addons for Beaver Builder – Lite",
+          "slug": "ultimate-addons-for-beaver-builder-lite/bb-ultimate-addon.php"
+        },
         "contact-form-7": {
           "name": "Contact Form 7",
           "slug": "contact-form-7/wp-contact-form-7.php"
@@ -226,11 +230,11 @@
         "typography": {
           "primary": {
             "font_family": "Poppins",
-            "font_weight": "600"
+            "font_weight": "500"
           },
           "secondary": {
             "font_family": "Poppins",
-            "font_weight": "600"
+            "font_weight": "500"
           },
           "body": {
             "font_family": "Poppins",
