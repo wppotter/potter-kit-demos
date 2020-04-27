@@ -146,6 +146,32 @@
           "main_menu": "main",
           "mobile_menu": "main"
         }
+      },
+      "elementor_schemes": {
+        "color": [
+          "#4054B2",
+          "#666666",
+          "#000000",
+          "#DF6A6A"
+        ],
+        "typography": {
+          "primary": {
+            "font_family": "Roboto",
+            "font_weight": "600"
+          },
+          "secondary": {
+            "font_family": "Roboto",
+            "font_weight": "600"
+          },
+          "body": {
+            "font_family": "Roboto",
+            "font_weight": "400"
+          },
+          "accent": {
+            "font_family": "Roboto",
+            "font_weight": "400"
+          }
+        }
       }
     },
     "potter-brand-store": {
@@ -189,6 +215,32 @@
           "mobile_menu": "Main Menu",
           "nav_left_menu": "left"
         }
+      },
+      "elementor_schemes": {
+        "color": [
+          "#000000",
+          "#666666",
+          "#000000",
+          "#DF6A6A"
+        ],
+        "typography": {
+          "primary": {
+            "font_family": "Poppins",
+            "font_weight": "600"
+          },
+          "secondary": {
+            "font_family": "Poppins",
+            "font_weight": "600"
+          },
+          "body": {
+            "font_family": "Poppins",
+            "font_weight": "400"
+          },
+          "accent": {
+            "font_family": "Poppins",
+            "font_weight": "400"
+          }
+        }
       }
     },
     "potter-saas-landingpage": {
@@ -221,6 +273,32 @@
         "nav_menu_locations": {
           "main_menu": "main",
           "mobile_menu": "main"
+        }
+      },
+      "elementor_schemes": {
+        "color": [
+          "#0779E4",
+          "#54595F",
+          "#000000",
+          "#0779E4"
+        ],
+        "typography": {
+          "primary": {
+            "font_family": "Poppins",
+            "font_weight": "600"
+          },
+          "secondary": {
+            "font_family": "Poppins",
+            "font_weight": "600"
+          },
+          "body": {
+            "font_family": "Poppins",
+            "font_weight": "400"
+          },
+          "accent": {
+            "font_family": "Poppins",
+            "font_weight": "400"
+          }
         }
       }
     },

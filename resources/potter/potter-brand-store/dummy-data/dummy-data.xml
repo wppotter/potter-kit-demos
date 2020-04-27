@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.4" created="2020-04-27 09:58" -->
+	<!-- generator="WordPress/5.4" created="2020-04-27 11:44" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Brand Store</title>
 	<link>https://demos.wppotter.com/brand-store-elementor</link>
 	<description>Just another Potter Kit Demos site</description>
-	<pubDate>Mon, 27 Apr 2020 09:58:17 +0000</pubDate>
+	<pubDate>Mon, 27 Apr 2020 11:44:20 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://demos.wppotter.com/</wp:base_site_url>
@@ -249,6 +249,8 @@ Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat 
 	<wp:term><wp:term_id>37</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[left]]></wp:term_slug><wp:term_name><![CDATA[left]]></wp:term_name>
 </wp:term>
 	<wp:term><wp:term_id>24</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main-menu]]></wp:term_slug><wp:term_name><![CDATA[Main Menu]]></wp:term_name>
+</wp:term>
+	<wp:term><wp:term_id>38</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[mobile-menu]]></wp:term_slug><wp:term_name><![CDATA[Mobile Menu]]></wp:term_name>
 </wp:term>
 	<wp:term><wp:term_id>25</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[quick-links]]></wp:term_slug><wp:term_name><![CDATA[Quick Links]]></wp:term_name>
 </wp:term>
@@ -3639,61 +3641,6 @@ Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat 
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Hello world!</title>
-		<link>https://demos.wppotter.com/brand-store-elementor/2020/04/25/hello-world__trashed/</link>
-		<pubDate>Sat, 25 Apr 2020 16:00:14 +0000</pubDate>
-		<dc:creator><![CDATA[wppotter]]></dc:creator>
-		<guid isPermaLink="false">https://demos.wppotter.com/brand-store-elemntor/?p=1</guid>
-		<description></description>
-		<content:encoded><![CDATA[Welcome to <a href="http://demos.wppotter.com/">Potter Kit Demos</a>. This is your first post. Edit or delete it, then start writing!]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1</wp:post_id>
-		<wp:post_date><![CDATA[2020-04-25 16:00:14]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-04-25 16:00:14]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[hello-world__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1587887901]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[hello-world]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_comments_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:1;s:1:"1";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:comment>
-			<wp:comment_id>1</wp:comment_id>
-			<wp:comment_author><![CDATA[A WordPress Commenter]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[wapuu@wordpress.example]]></wp:comment_author_email>
-			<wp:comment_author_url>http://demos.wppotter.com/</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2020-04-25 16:00:14]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2020-04-25 16:00:14]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Hi, this is a comment.
-To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
-Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[post-trashed]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
-							</wp:comment>
-					</item>
-					<item>
 		<title>Home</title>
 		<link>https://demos.wppotter.com/brand-store-elementor/</link>
 		<pubDate>Sun, 17 Dec 2017 06:31:19 +0000</pubDate>
@@ -4375,6 +4322,907 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		<wp:meta_value><![CDATA[a:8:{s:7:"heading";a:3:{s:5:"count";i:5;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_title";a:4:{s:5:"title";i:5;s:11:"header_size";i:2;s:5:"align";i:4;s:12:"align_tablet";i:1;}}s:5:"style";a:1:{s:19:"section_title_style";a:5:{s:11:"title_color";i:1;s:20:"typography_font_size";i:4;s:27:"typography_font_size_tablet";i:4;s:27:"typography_font_size_mobile";i:4;s:21:"typography_typography";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:20;s:15:"control_percent";i:0;s:8:"controls";a:3:{s:6:"layout";a:1:{s:6:"layout";a:3:{s:12:"_inline_size";i:18;s:16:"content_position";i:3;s:19:"_inline_size_tablet";i:11;}}s:5:"style";a:2:{s:13:"section_style";a:6:{s:16:"background_color";i:4;s:21:"background_background";i:3;s:19:"background_position";i:1;s:21:"background_attachment";i:1;s:17:"background_repeat";i:1;s:15:"background_size";i:1;}s:26:"section_background_overlay";a:3:{s:29:"background_overlay_background";i:1;s:24:"background_overlay_color";i:1;s:26:"background_overlay_opacity";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:6:{s:7:"padding";i:13;s:14:"padding_tablet";i:3;s:14:"padding_mobile";i:4;s:6:"margin";i:6;s:13:"margin_tablet";i:1;s:13:"margin_mobile";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:9;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:6:"layout";a:2:{s:14:"section_layout";a:4:{s:3:"gap";i:4;s:16:"content_position";i:2;s:6:"layout";i:3;s:13:"content_width";i:5;}s:17:"section_structure";a:1:{s:9:"structure";i:6;}}s:5:"style";a:2:{s:18:"section_background";a:7:{s:21:"background_background";i:4;s:19:"background_position";i:2;s:21:"background_attachment";i:2;s:17:"background_repeat";i:2;s:15:"background_size";i:2;s:16:"background_color";i:4;s:16:"background_image";i:2;}s:26:"section_background_overlay";a:3:{s:24:"background_overlay_color";i:2;s:29:"background_overlay_background";i:2;s:26:"background_overlay_opacity";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:6:{s:13:"margin_mobile";i:3;s:7:"padding";i:5;s:14:"padding_tablet";i:3;s:6:"margin";i:4;s:14:"padding_mobile";i:3;s:13:"margin_tablet";i:1;}}}}s:5:"image";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_image";a:1:{s:5:"image";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:8:"_padding";i:1;}}}}s:11:"text-editor";a:3:{s:5:"count";i:2;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:2;}}s:5:"style";a:1:{s:13:"section_style";a:2:{s:12:"align_tablet";i:1;s:5:"align";i:1;}}}}s:9:"image-box";a:3:{s:5:"count";i:6;s:15:"control_percent";i:5;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_image";a:5:{s:5:"image";i:6;s:10:"title_text";i:6;s:16:"description_text";i:6;s:10:"title_size";i:6;s:14:"thumbnail_size";i:1;}}s:5:"style";a:2:{s:19:"section_style_image";a:2:{s:11:"image_space";i:6;s:10:"image_size";i:6;}s:21:"section_style_content";a:1:{s:18:"title_bottom_space";i:6;}}s:8:"advanced";a:3:{s:14:"_section_style";a:2:{s:7:"_margin";i:6;s:8:"_padding";i:6;}s:19:"_section_background";a:2:{s:22:"_background_background";i:6;s:17:"_background_color";i:6;}s:15:"_section_border";a:2:{s:14:"_border_radius";i:6;s:22:"_box_shadow_box_shadow";i:6;}}}}s:12:"social-icons";a:3:{s:5:"count";i:1;s:15:"control_percent";i:5;s:8:"controls";a:2:{s:7:"content";a:1:{s:19:"section_social_icon";a:1:{s:16:"social_icon_list";i:1;}}s:5:"style";a:2:{s:20:"section_social_style";a:8:{s:10:"icon_color";i:1;s:18:"icon_primary_color";i:1;s:20:"icon_secondary_color";i:1;s:9:"icon_size";i:1;s:12:"icon_padding";i:1;s:12:"icon_spacing";i:1;s:13:"border_radius";i:1;s:16:"icon_size_mobile";i:1;}s:20:"section_social_hover";a:2:{s:19:"hover_primary_color";i:1;s:21:"hover_secondary_color";i:1;}}}}s:8:"icon-box";a:3:{s:5:"count";i:4;s:15:"control_percent";i:7;s:8:"controls";a:2:{s:7:"content";a:1:{s:12:"section_icon";a:5:{s:13:"selected_icon";i:4;s:4:"view";i:4;s:10:"title_text";i:4;s:16:"description_text";i:4;s:8:"position";i:4;}}s:5:"style";a:2:{s:18:"section_style_icon";a:7:{s:13:"primary_color";i:4;s:15:"secondary_color";i:4;s:19:"hover_primary_color";i:4;s:21:"hover_secondary_color";i:4;s:15:"hover_animation";i:4;s:10:"icon_space";i:4;s:9:"icon_size";i:4;}s:21:"section_style_content";a:6:{s:18:"title_bottom_space";i:4;s:27:"title_typography_typography";i:4;s:26:"title_typography_font_size";i:4;s:17:"description_color";i:4;s:33:"description_typography_typography";i:4;s:32:"description_typography_font_size";i:4;}}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
+					<item>
+		<title>Contact Us</title>
+		<link>https://demos.wppotter.com/brand-store-elementor/contact-us/</link>
+		<pubDate>Thu, 21 Dec 2017 09:00:47 +0000</pubDate>
+		<dc:creator><![CDATA[wppotter]]></dc:creator>
+		<guid isPermaLink="false">https://demos.wppotter.com/brand-store-elemntor/contact-us/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<h1>Contact Us</h1>		
+			<h3>Questions, Comments? You tell us. We listen.</h3>		
+		<p>Email: info@example .com</p><p>Toll-free number: 1800 123 4567,<br />Monday to Saturday - 9:00 am to 7:00 pm<br />Sunday - 10:00 am to 5:00 pm</p>		
+			<h4>Need Us? Call Us.</h4>		
+			<h3>1800 123 4567</h3>		
+		[contact-form-7 id="1581" title="Contact"]		
+				<h3>
+					Free Shipping
+				</h3>
+								<p>Apply order over $99</p>
+				<h3>
+					Cash On Delivery
+				</h3>
+								<p>Internet Trend To Repeat</p>
+				<h3>
+					Gift For All
+				</h3>
+								<p>Gift When Subscribe</p>
+				<h3>
+					Opening All Week
+				</h3>
+								<p>6.00 am - 17.00pm</p>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>414</wp:post_id>
+		<wp:post_date><![CDATA[2017-12-21 09:00:47]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-12-21 09:00:47]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[contact-us]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[site-sidebar-layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no-sidebar]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[site-content-layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page-builder]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
+		<wp:meta_value><![CDATA[60]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[builder]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_astra_content_layout_flag]]></wp:meta_key>
+		<wp:meta_value><![CDATA[disabled]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[site-post-title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[disabled]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[ast-title-bar-display]]></wp:meta_key>
+		<wp:meta_value><![CDATA[disabled]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[ast-featured-img]]></wp:meta_key>
+		<wp:meta_value><![CDATA[disabled]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
+		<wp:meta_value><![CDATA[[{"id":"1af1f79","elType":"section","settings":{"gap":"no","content_position":"middle","background_background":"classic","background_position":"bottom center","background_attachment":"fixed","background_repeat":"no-repeat","background_size":"cover","background_overlay_color":"#0c0c0c","margin_mobile":{"unit":"px","top":"","right":0,"bottom":"","left":0,"isLinked":true},"background_color":"#000000","background_image":{"id":1537,"url":"https:\/\/demos.wppotter.com\/brand-store-elemntor\/wp-content\/uploads\/sites\/6\/2020\/04\/shopping-store-fashion-2616824.jpg"},"background_overlay_background":"gradient","padding":{"unit":"%","top":"10","right":"0","bottom":"10","left":"0","isLinked":false},"padding_tablet":{"unit":"px","top":"240","right":"0","bottom":"150","left":"0","isLinked":false},"background_overlay_color_b":"rgba(0,0,0,0.45)","background_overlay_opacity":{"unit":"px","size":0.81}},"elements":[{"id":"8d092b6","elType":"column","settings":{"_column_size":100,"_inline_size":null},"elements":[{"id":"2f510d4","elType":"widget","settings":{"title":"Contact Us","header_size":"h1","align":"center","title_color":"#ffffff","typography_font_size":{"unit":"em","size":3.5},"typography_font_size_tablet":{"unit":"em","size":""},"typography_font_size_mobile":{"unit":"em","size":""},"typography_typography":"custom"},"elements":[],"widgetType":"heading"}],"isInner":false}],"isInner":false},{"id":"adcc176","elType":"section","settings":{"structure":"21","content_position":"middle","padding":{"unit":"px","top":"81","right":"0","bottom":"80","left":"0","isLinked":false}},"elements":[{"id":"a91ad32","elType":"column","settings":{"_column_size":33,"_inline_size":null},"elements":[{"id":"b5a2814","elType":"widget","settings":{"title":"Questions, Comments? You tell us. We listen.","header_size":"h3","typography_font_size":{"unit":"em","size":""}},"elements":[],"widgetType":"heading"},{"id":"6c2999c","elType":"widget","settings":{"editor":"<p>Email: info@example .com<\/p><p>Toll-free number: 1800 123 4567,<br \/>Monday to Saturday - 9:00 am to 7:00 pm<br \/>Sunday - 10:00 am to 5:00 pm<\/p>","_margin":{"unit":"px","top":"0","right":"0","bottom":"-20","left":"0","isLinked":false}},"elements":[],"widgetType":"text-editor"},{"id":"6c45b9c","elType":"widget","settings":{"title":"Need Us? Call Us.","typography_font_size":{"unit":"em","size":""},"typography_font_size_tablet":{"unit":"em","size":""},"header_size":"h4","_padding":{"unit":"px","top":"50","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"328a95d","elType":"widget","settings":{"title":"1800 123 4567","header_size":"h3"},"elements":[],"widgetType":"heading"}],"isInner":false},{"id":"063df41","elType":"column","settings":{"_column_size":66,"_inline_size":null,"background_background":"classic","background_color":"#ffffff","padding":{"unit":"px","top":"40","right":"40","bottom":"40","left":"40","isLinked":true},"padding_tablet":{"unit":"px","top":"30","right":"30","bottom":"30","left":"30","isLinked":true},"padding_mobile":{"unit":"px","top":"25","right":"25","bottom":"25","left":"25","isLinked":true}},"elements":[{"id":"be7c042","elType":"widget","settings":{"shortcode":"[contact-form-7 id=\"1581\" title=\"Contact\"]","_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[],"widgetType":"shortcode"}],"isInner":false}],"isInner":false},{"id":"3af3235c","elType":"section","settings":{"content_width":{"unit":"px","size":1240,"sizes":[]},"structure":"40","background_background":"classic","background_color":"#EAEAEA","padding":{"unit":"em","top":"2","right":"0","bottom":"2","left":"0","isLinked":false}},"elements":[{"id":"6ed099d4","elType":"column","settings":{"_column_size":25,"_inline_size":null},"elements":[{"id":"7cfaf395","elType":"widget","settings":{"selected_icon":{"value":"fas fa-shipping-fast","library":"fa-solid"},"view":"stacked","title_text":"Free Shipping","description_text":"Apply order over $99","position":"left","primary_color":"#FFFFFF","secondary_color":"#DF6A6A","hover_primary_color":"#DF6A6A","hover_secondary_color":"#FFFFFF","hover_animation":"pulse-grow","icon_space":{"unit":"px","size":20,"sizes":[]},"icon_size":{"unit":"px","size":25,"sizes":[]},"title_bottom_space":{"unit":"px","size":0,"sizes":[]},"title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":20,"sizes":[]},"description_color":"#8A8A8A","description_typography_typography":"custom","description_typography_font_size":{"unit":"px","size":14,"sizes":[]}},"elements":[],"widgetType":"icon-box"}],"isInner":false},{"id":"1d13237d","elType":"column","settings":{"_column_size":25,"_inline_size":null},"elements":[{"id":"4bad3ce","elType":"widget","settings":{"selected_icon":{"value":"far fa-money-bill-alt","library":"fa-regular"},"view":"stacked","title_text":"Cash On Delivery","description_text":"Internet Trend To Repeat","position":"left","primary_color":"#FFFFFF","secondary_color":"#DF6A6A","hover_primary_color":"#DF6A6A","hover_secondary_color":"#FFFFFF","hover_animation":"pulse-grow","icon_space":{"unit":"px","size":20,"sizes":[]},"icon_size":{"unit":"px","size":25,"sizes":[]},"title_bottom_space":{"unit":"px","size":0,"sizes":[]},"title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":20,"sizes":[]},"description_color":"#8A8A8A","description_typography_typography":"custom","description_typography_font_size":{"unit":"px","size":14,"sizes":[]}},"elements":[],"widgetType":"icon-box"}],"isInner":false},{"id":"7a6233c1","elType":"column","settings":{"_column_size":25,"_inline_size":null},"elements":[{"id":"6a7f605e","elType":"widget","settings":{"selected_icon":{"value":"fas fa-gift","library":"fa-solid"},"view":"stacked","title_text":"Gift For All","description_text":"Gift When Subscribe","position":"left","primary_color":"#FFFFFF","secondary_color":"#DF6A6A","hover_primary_color":"#DF6A6A","hover_secondary_color":"#FFFFFF","hover_animation":"pulse-grow","icon_space":{"unit":"px","size":20,"sizes":[]},"icon_size":{"unit":"px","size":25,"sizes":[]},"title_bottom_space":{"unit":"px","size":0,"sizes":[]},"title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":20,"sizes":[]},"description_color":"#8A8A8A","description_typography_typography":"custom","description_typography_font_size":{"unit":"px","size":14,"sizes":[]}},"elements":[],"widgetType":"icon-box"}],"isInner":false},{"id":"40980ab5","elType":"column","settings":{"_column_size":25,"_inline_size":null},"elements":[{"id":"1f658b41","elType":"widget","settings":{"selected_icon":{"value":"far fa-clock","library":"fa-regular"},"view":"stacked","title_text":"Opening All Week","description_text":"6.00 am - 17.00pm","position":"left","primary_color":"#FFFFFF","secondary_color":"#DF6A6A","hover_primary_color":"#DF6A6A","hover_secondary_color":"#FFFFFF","hover_animation":"pulse-grow","icon_space":{"unit":"px","size":20,"sizes":[]},"icon_size":{"unit":"px","size":25,"sizes":[]},"title_bottom_space":{"unit":"px","size":0,"sizes":[]},"title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":20,"sizes":[]},"description_color":"#8A8A8A","description_typography_typography":"custom","description_typography_font_size":{"unit":"px","size":14,"sizes":[]}},"elements":[],"widgetType":"icon-box"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2.9.8]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[wp-post]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[theme-transparent-header-meta]]></wp:meta_key>
+		<wp:meta_value><![CDATA[enabled]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_page_settings]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:41:{s:22:"astra_sites_main_color";s:7:"#54595f";s:30:"astra_sites_heading_base_color";s:7:"#333333";s:22:"astra_sites_link_color";s:7:"#4e4e4e";s:28:"astra_sites_link_hover_color";s:7:"#0084d6";s:22:"astra_sites_text_color";s:7:"#333333";s:16:"background_color";s:7:"#ffffff";s:21:"background_background";s:7:"classic";s:27:"astra_sites_body_typography";s:6:"custom";s:26:"astra_sites_body_font_size";a:2:{s:4:"unit";s:2:"px";s:4:"size";s:2:"15";}s:28:"astra_sites_body_font_family";s:4:"Lato";s:28:"astra_sites_body_font_weight";s:3:"400";s:32:"astra_sites_heading_1_typography";s:6:"custom";s:31:"astra_sites_heading_1_font_size";a:2:{s:4:"unit";s:2:"px";s:4:"size";s:2:"66";}s:38:"astra_sites_heading_1_font_size_tablet";a:2:{s:4:"unit";s:2:"px";s:4:"size";s:2:"50";}s:38:"astra_sites_heading_1_font_size_mobile";a:2:{s:4:"unit";s:2:"px";s:4:"size";s:2:"30";}s:33:"astra_sites_heading_1_line_height";a:2:{s:4:"unit";s:2:"em";s:4:"size";s:3:"1.2";}s:39:"astra_sites_default_heading_font_family";s:18:"'Lato', sans-serif";s:33:"astra_sites_heading_1_font_family";s:6:"'Lato'";s:33:"astra_sites_heading_1_font_weight";s:3:"700";s:32:"astra_sites_heading_2_typography";s:6:"custom";s:31:"astra_sites_heading_2_font_size";a:2:{s:4:"unit";s:2:"px";s:4:"size";s:2:"42";}s:33:"astra_sites_heading_2_font_family";s:6:"'Lato'";s:33:"astra_sites_heading_2_font_weight";s:3:"700";s:32:"astra_sites_heading_3_typography";s:6:"custom";s:31:"astra_sites_heading_3_font_size";a:2:{s:4:"unit";s:2:"px";s:4:"size";s:2:"30";}s:33:"astra_sites_heading_3_line_height";a:2:{s:4:"unit";s:2:"em";s:4:"size";s:3:"1.5";}s:33:"astra_sites_heading_3_font_family";s:6:"'Lato'";s:33:"astra_sites_heading_3_font_weight";s:3:"700";s:32:"astra_sites_heading_4_typography";s:6:"custom";s:31:"astra_sites_heading_4_font_size";a:2:{s:4:"unit";s:2:"px";s:4:"size";s:2:"20";}s:33:"astra_sites_heading_4_font_family";s:6:"'Lato'";s:33:"astra_sites_heading_4_font_weight";s:3:"700";s:32:"astra_sites_heading_5_typography";s:6:"custom";s:31:"astra_sites_heading_5_font_size";a:2:{s:4:"unit";s:2:"px";s:4:"size";s:2:"18";}s:33:"astra_sites_heading_5_font_family";s:6:"'Lato'";s:33:"astra_sites_heading_5_font_weight";s:3:"700";s:32:"astra_sites_heading_6_typography";s:6:"custom";s:31:"astra_sites_heading_6_font_size";a:2:{s:4:"unit";s:2:"px";s:4:"size";s:2:"15";}s:33:"astra_sites_heading_6_font_family";s:6:"'Lato'";s:33:"astra_sites_heading_6_font_weight";s:3:"700";s:31:"astra_sites_page_setting_enable";s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[astra-main-page-id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[26323]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[harshadd]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_astra_sites_imported_post]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:7:"heading";a:3:{s:5:"count";i:4;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:3:{s:5:"title";i:4;s:11:"header_size";i:4;s:5:"align";i:1;}}s:5:"style";a:1:{s:19:"section_title_style";a:5:{s:11:"title_color";i:1;s:20:"typography_font_size";i:3;s:27:"typography_font_size_tablet";i:2;s:27:"typography_font_size_mobile";i:1;s:21:"typography_typography";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:8:"_padding";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:7;s:15:"control_percent";i:0;s:8:"controls";a:3:{s:6:"layout";a:1:{s:6:"layout";a:1:{s:12:"_inline_size";i:7;}}s:5:"style";a:1:{s:13:"section_style";a:2:{s:21:"background_background";i:1;s:16:"background_color";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:3:{s:7:"padding";i:1;s:14:"padding_tablet";i:1;s:14:"padding_mobile";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:3;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:6:"layout";a:2:{s:14:"section_layout";a:3:{s:3:"gap";i:1;s:16:"content_position";i:2;s:13:"content_width";i:1;}s:17:"section_structure";a:1:{s:9:"structure";i:2;}}s:5:"style";a:2:{s:18:"section_background";a:7:{s:21:"background_background";i:2;s:19:"background_position";i:1;s:21:"background_attachment";i:1;s:17:"background_repeat";i:1;s:15:"background_size";i:1;s:16:"background_color";i:2;s:16:"background_image";i:1;}s:26:"section_background_overlay";a:4:{s:24:"background_overlay_color";i:1;s:29:"background_overlay_background";i:1;s:26:"background_overlay_color_b";i:1;s:26:"background_overlay_opacity";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:3:{s:13:"margin_mobile";i:1;s:7:"padding";i:3;s:14:"padding_tablet";i:1;}}}}s:11:"text-editor";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:1;}}}}s:9:"shortcode";a:3:{s:5:"count";i:1;s:15:"control_percent";i:2;s:8:"controls";a:2:{s:7:"content";a:1:{s:17:"section_shortcode";a:1:{s:9:"shortcode";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:2:{s:7:"_margin";i:1;s:8:"_padding";i:1;}}}}s:8:"icon-box";a:3:{s:5:"count";i:4;s:15:"control_percent";i:7;s:8:"controls";a:2:{s:7:"content";a:1:{s:12:"section_icon";a:5:{s:13:"selected_icon";i:4;s:4:"view";i:4;s:10:"title_text";i:4;s:16:"description_text";i:4;s:8:"position";i:4;}}s:5:"style";a:2:{s:18:"section_style_icon";a:7:{s:13:"primary_color";i:4;s:15:"secondary_color";i:4;s:19:"hover_primary_color";i:4;s:21:"hover_secondary_color";i:4;s:15:"hover_animation";i:4;s:10:"icon_space";i:4;s:9:"icon_size";i:4;}s:21:"section_style_content";a:6:{s:18:"title_bottom_space";i:4;s:27:"title_typography_typography";i:4;s:26:"title_typography_font_size";i:4;s:17:"description_color";i:4;s:33:"description_typography_typography";i:4;s:32:"description_typography_font_size";i:4;}}}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[potter_options]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:2:{i:0;s:12:"remove-title";i:1;s:10:"full-width";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[potter_sidebar_position]]></wp:meta_key>
+		<wp:meta_value><![CDATA[none]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_astra_sites_hotlink_imported]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title></title>
+		<link>https://demos.wppotter.com/brand-store-elementor/2020/04/25/1445/</link>
+		<pubDate>Sat, 25 Apr 2020 18:41:04 +0000</pubDate>
+		<dc:creator><![CDATA[wppotter]]></dc:creator>
+		<guid isPermaLink="false">https://demos.wppotter.com/brand-store-elemntor/2020/04/25/1445/</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1445</wp:post_id>
+		<wp:post_date><![CDATA[2020-04-25 18:41:04]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-04-25 18:41:04]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[1445]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>2</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="left"><![CDATA[left]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[38]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title></title>
+		<link>https://demos.wppotter.com/brand-store-elementor/2020/04/25/1446/</link>
+		<pubDate>Sat, 25 Apr 2020 18:41:05 +0000</pubDate>
+		<dc:creator><![CDATA[wppotter]]></dc:creator>
+		<guid isPermaLink="false">https://demos.wppotter.com/brand-store-elemntor/2020/04/25/1446/</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1446</wp:post_id>
+		<wp:post_date><![CDATA[2020-04-25 18:41:05]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-04-25 18:41:05]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[1446]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>1</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="left"><![CDATA[left]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[10]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title></title>
+		<link>https://demos.wppotter.com/brand-store-elementor/2020/04/25/1447/</link>
+		<pubDate>Sat, 25 Apr 2020 18:41:05 +0000</pubDate>
+		<dc:creator><![CDATA[wppotter]]></dc:creator>
+		<guid isPermaLink="false">https://demos.wppotter.com/brand-store-elemntor/2020/04/25/1447/</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1447</wp:post_id>
+		<wp:post_date><![CDATA[2020-04-25 18:41:05]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-04-25 18:41:05]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[1447]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>6</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="left"><![CDATA[left]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[40]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title></title>
+		<link>https://demos.wppotter.com/brand-store-elementor/2020/04/25/1448/</link>
+		<pubDate>Sat, 25 Apr 2020 18:41:05 +0000</pubDate>
+		<dc:creator><![CDATA[wppotter]]></dc:creator>
+		<guid isPermaLink="false">https://demos.wppotter.com/brand-store-elemntor/2020/04/25/1448/</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1448</wp:post_id>
+		<wp:post_date><![CDATA[2020-04-25 18:41:05]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-04-25 18:41:05]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[1448]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>3</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="left"><![CDATA[left]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[32]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1445]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[product_cat]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title></title>
+		<link>https://demos.wppotter.com/brand-store-elementor/2020/04/25/1449/</link>
+		<pubDate>Sat, 25 Apr 2020 18:41:05 +0000</pubDate>
+		<dc:creator><![CDATA[wppotter]]></dc:creator>
+		<guid isPermaLink="false">https://demos.wppotter.com/brand-store-elemntor/2020/04/25/1449/</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1449</wp:post_id>
+		<wp:post_date><![CDATA[2020-04-25 18:41:05]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-04-25 18:41:05]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[1449]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>4</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="left"><![CDATA[left]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1445]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[29]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[product_cat]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title></title>
+		<link>https://demos.wppotter.com/brand-store-elementor/2020/04/25/1450/</link>
+		<pubDate>Sat, 25 Apr 2020 18:41:05 +0000</pubDate>
+		<dc:creator><![CDATA[wppotter]]></dc:creator>
+		<guid isPermaLink="false">https://demos.wppotter.com/brand-store-elemntor/2020/04/25/1450/</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1450</wp:post_id>
+		<wp:post_date><![CDATA[2020-04-25 18:41:05]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-04-25 18:41:05]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[1450]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>5</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="left"><![CDATA[left]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1445]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[26]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[product_cat]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title></title>
+		<link>https://demos.wppotter.com/brand-store-elementor/2020/04/27/1574/</link>
+		<pubDate>Mon, 27 Apr 2020 10:12:06 +0000</pubDate>
+		<dc:creator><![CDATA[wppotter]]></dc:creator>
+		<guid isPermaLink="false">https://demos.wppotter.com/brand-store-elementor/2020/04/27/1574/</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1574</wp:post_id>
+		<wp:post_date><![CDATA[2020-04-27 10:12:06]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-04-27 10:12:06]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[1574]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>1</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="mobile-menu"><![CDATA[Mobile Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[40]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title></title>
+		<link>https://demos.wppotter.com/brand-store-elementor/2020/04/27/1575/</link>
+		<pubDate>Mon, 27 Apr 2020 10:12:06 +0000</pubDate>
+		<dc:creator><![CDATA[wppotter]]></dc:creator>
+		<guid isPermaLink="false">https://demos.wppotter.com/brand-store-elementor/2020/04/27/1575/</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1575</wp:post_id>
+		<wp:post_date><![CDATA[2020-04-27 10:12:06]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-04-27 10:12:06]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[1575]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>2</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="mobile-menu"><![CDATA[Mobile Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[41]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title></title>
+		<link>https://demos.wppotter.com/brand-store-elementor/2020/04/27/1576/</link>
+		<pubDate>Mon, 27 Apr 2020 10:12:06 +0000</pubDate>
+		<dc:creator><![CDATA[wppotter]]></dc:creator>
+		<guid isPermaLink="false">https://demos.wppotter.com/brand-store-elementor/2020/04/27/1576/</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1576</wp:post_id>
+		<wp:post_date><![CDATA[2020-04-27 10:12:06]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-04-27 10:12:06]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[1576]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>3</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="mobile-menu"><![CDATA[Mobile Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[43]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title></title>
+		<link>https://demos.wppotter.com/brand-store-elementor/2020/04/27/1577/</link>
+		<pubDate>Mon, 27 Apr 2020 10:12:06 +0000</pubDate>
+		<dc:creator><![CDATA[wppotter]]></dc:creator>
+		<guid isPermaLink="false">https://demos.wppotter.com/brand-store-elementor/2020/04/27/1577/</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1577</wp:post_id>
+		<wp:post_date><![CDATA[2020-04-27 10:12:06]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-04-27 10:12:06]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[1577]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>4</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="mobile-menu"><![CDATA[Mobile Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[414]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Home</title>
+		<link>https://demos.wppotter.com/brand-store-elementor/2020/04/27/home/</link>
+		<pubDate>Mon, 27 Apr 2020 10:12:06 +0000</pubDate>
+		<dc:creator><![CDATA[wppotter]]></dc:creator>
+		<guid isPermaLink="false">https://demos.wppotter.com/brand-store-elementor/2020/04/27/home/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1578</wp:post_id>
+		<wp:post_date><![CDATA[2020-04-27 10:12:06]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-04-27 10:12:06]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[home]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>5</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="mobile-menu"><![CDATA[Mobile Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1578]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://demos.wppotter.com/brand-store-elementor]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title></title>
+		<link>https://demos.wppotter.com/brand-store-elementor/2020/04/27/1579/</link>
+		<pubDate>Mon, 27 Apr 2020 10:12:06 +0000</pubDate>
+		<dc:creator><![CDATA[wppotter]]></dc:creator>
+		<guid isPermaLink="false">https://demos.wppotter.com/brand-store-elementor/2020/04/27/1579/</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1579</wp:post_id>
+		<wp:post_date><![CDATA[2020-04-27 10:12:06]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-04-27 10:12:06]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[1579]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>6</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="mobile-menu"><![CDATA[Mobile Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[39]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title></title>
+		<link>https://demos.wppotter.com/brand-store-elementor/2020/04/27/1580/</link>
+		<pubDate>Mon, 27 Apr 2020 10:12:06 +0000</pubDate>
+		<dc:creator><![CDATA[wppotter]]></dc:creator>
+		<guid isPermaLink="false">https://demos.wppotter.com/brand-store-elementor/2020/04/27/1580/</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1580</wp:post_id>
+		<wp:post_date><![CDATA[2020-04-27 10:12:06]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-04-27 10:12:06]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[1580]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>7</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="mobile-menu"><![CDATA[Mobile Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[38]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Hello world!</title>
+		<link>https://demos.wppotter.com/brand-store-elementor/2020/04/25/hello-world__trashed/</link>
+		<pubDate>Sat, 25 Apr 2020 16:00:14 +0000</pubDate>
+		<dc:creator><![CDATA[wppotter]]></dc:creator>
+		<guid isPermaLink="false">https://demos.wppotter.com/brand-store-elemntor/?p=1</guid>
+		<description></description>
+		<content:encoded><![CDATA[Welcome to <a href="http://demos.wppotter.com/">Potter Kit Demos</a>. This is your first post. Edit or delete it, then start writing!]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1</wp:post_id>
+		<wp:post_date><![CDATA[2020-04-25 16:00:14]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-04-25 16:00:14]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[hello-world__trashed]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1587887901]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[hello-world]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_comments_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:1;s:1:"1";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:comment>
+			<wp:comment_id>1</wp:comment_id>
+			<wp:comment_author><![CDATA[A WordPress Commenter]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[wapuu@wordpress.example]]></wp:comment_author_email>
+			<wp:comment_author_url>http://demos.wppotter.com/</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2020-04-25 16:00:14]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2020-04-25 16:00:14]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Hi, this is a comment.
+To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
+Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[post-trashed]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					</item>
 					<item>
 		<title>Bright Red Bag</title>
 		<link>https://demos.wppotter.com/brand-store-elementor/product/bright-red-bag/</link>
@@ -5247,467 +6095,6 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_astra_sites_imported_post]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Contact Us</title>
-		<link>https://demos.wppotter.com/brand-store-elementor/contact-us/</link>
-		<pubDate>Thu, 21 Dec 2017 09:00:47 +0000</pubDate>
-		<dc:creator><![CDATA[wppotter]]></dc:creator>
-		<guid isPermaLink="false">https://demos.wppotter.com/brand-store-elemntor/contact-us/</guid>
-		<description></description>
-		<content:encoded><![CDATA[<h1>Contact Us</h1>
-<h3>Questions, Comments? You tell us. We listen.</h3>
-Email: info@example .com
-
-Toll-free number: 1800 123 4567,
-Monday to Saturday - 9:00 am to 7:00 pm
-Sunday - 10:00 am to 5:00 pm
-<h4>Need Us? Call Us.</h4>
-<h3>1800 123 4567</h3>
-[wpforms id="5"]
-<h3>
-					Free Shipping</h3>
-Apply order over $99
-<h3>
-					Cash On Delivery</h3>
-Internet Trend To Repeat
-<h3>
-					Gift For All</h3>
-Gift When Subscribe
-<h3>
-					Opening All Week</h3>
-6.00 am - 17.00pm]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>414</wp:post_id>
-		<wp:post_date><![CDATA[2017-12-21 09:00:47]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2017-12-21 09:00:47]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[contact-us]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[site-sidebar-layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no-sidebar]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[site-content-layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page-builder]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
-		<wp:meta_value><![CDATA[60]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
-		<wp:meta_value><![CDATA[builder]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_astra_content_layout_flag]]></wp:meta_key>
-		<wp:meta_value><![CDATA[disabled]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[site-post-title]]></wp:meta_key>
-		<wp:meta_value><![CDATA[disabled]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[ast-title-bar-display]]></wp:meta_key>
-		<wp:meta_value><![CDATA[disabled]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[ast-featured-img]]></wp:meta_key>
-		<wp:meta_value><![CDATA[disabled]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[[{"id":"1af1f79","elType":"section","settings":{"gap":"no","content_position":"middle","background_background":"classic","background_position":"bottom center","background_attachment":"fixed","background_repeat":"no-repeat","background_size":"cover","background_overlay_color":"#0c0c0c","margin_mobile":{"unit":"px","top":"","right":0,"bottom":"","left":0,"isLinked":true},"background_color":"#000000","background_image":{"id":1537,"url":"https:\/\/demos.wppotter.com\/brand-store-elemntor\/wp-content\/uploads\/sites\/6\/2020\/04\/shopping-store-fashion-2616824.jpg"},"background_overlay_background":"gradient","padding":{"unit":"%","top":"10","right":"0","bottom":"10","left":"0","isLinked":false},"padding_tablet":{"unit":"px","top":"240","right":"0","bottom":"150","left":"0","isLinked":false},"background_overlay_color_b":"rgba(0,0,0,0.45)","background_overlay_opacity":{"unit":"px","size":0.81}},"elements":[{"id":"8d092b6","elType":"column","settings":{"_column_size":100,"_inline_size":null},"elements":[{"id":"2f510d4","elType":"widget","settings":{"title":"Contact Us","header_size":"h1","align":"center","title_color":"#ffffff","typography_font_size":{"unit":"em","size":3.5},"typography_font_size_tablet":{"unit":"em","size":""},"typography_font_size_mobile":{"unit":"em","size":""},"typography_typography":"custom"},"elements":[],"widgetType":"heading"}],"isInner":false}],"isInner":false},{"id":"adcc176","elType":"section","settings":{"structure":"21","content_position":"middle","padding":{"unit":"px","top":"81","right":"0","bottom":"80","left":"0","isLinked":false}},"elements":[{"id":"a91ad32","elType":"column","settings":{"_column_size":33,"_inline_size":null},"elements":[{"id":"b5a2814","elType":"widget","settings":{"title":"Questions, Comments? You tell us. We listen.","header_size":"h3","typography_font_size":{"unit":"em","size":""}},"elements":[],"widgetType":"heading"},{"id":"6c2999c","elType":"widget","settings":{"editor":"<p>Email: info@example .com<\/p><p>Toll-free number: 1800 123 4567,<br \/>Monday to Saturday - 9:00 am to 7:00 pm<br \/>Sunday - 10:00 am to 5:00 pm<\/p>","_margin":{"unit":"px","top":"0","right":"0","bottom":"-20","left":"0","isLinked":false}},"elements":[],"widgetType":"text-editor"},{"id":"6c45b9c","elType":"widget","settings":{"title":"Need Us? Call Us.","typography_font_size":{"unit":"em","size":""},"typography_font_size_tablet":{"unit":"em","size":""},"header_size":"h4","_padding":{"unit":"px","top":"50","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"328a95d","elType":"widget","settings":{"title":"1800 123 4567","header_size":"h3"},"elements":[],"widgetType":"heading"}],"isInner":false},{"id":"063df41","elType":"column","settings":{"_column_size":66,"_inline_size":null,"background_background":"classic","background_color":"#ffffff","padding":{"unit":"px","top":"40","right":"40","bottom":"40","left":"40","isLinked":true},"padding_tablet":{"unit":"px","top":"30","right":"30","bottom":"30","left":"30","isLinked":true},"padding_mobile":{"unit":"px","top":"25","right":"25","bottom":"25","left":"25","isLinked":true}},"elements":[{"id":"be7c042","elType":"widget","settings":{"shortcode":"[wpforms id=\"5\"]","_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[],"widgetType":"shortcode"}],"isInner":false}],"isInner":false},{"id":"3af3235c","elType":"section","settings":{"content_width":{"unit":"px","size":1240,"sizes":[]},"structure":"40","background_background":"classic","background_color":"#EAEAEA","padding":{"unit":"em","top":"2","right":"0","bottom":"2","left":"0","isLinked":false}},"elements":[{"id":"6ed099d4","elType":"column","settings":{"_column_size":25,"_inline_size":null},"elements":[{"id":"7cfaf395","elType":"widget","settings":{"selected_icon":{"value":"fas fa-shipping-fast","library":"fa-solid"},"view":"stacked","title_text":"Free Shipping","description_text":"Apply order over $99","position":"left","primary_color":"#FFFFFF","secondary_color":"#DF6A6A","hover_primary_color":"#DF6A6A","hover_secondary_color":"#FFFFFF","hover_animation":"pulse-grow","icon_space":{"unit":"px","size":20,"sizes":[]},"icon_size":{"unit":"px","size":25,"sizes":[]},"title_bottom_space":{"unit":"px","size":0,"sizes":[]},"title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":20,"sizes":[]},"description_color":"#8A8A8A","description_typography_typography":"custom","description_typography_font_size":{"unit":"px","size":14,"sizes":[]}},"elements":[],"widgetType":"icon-box"}],"isInner":false},{"id":"1d13237d","elType":"column","settings":{"_column_size":25,"_inline_size":null},"elements":[{"id":"4bad3ce","elType":"widget","settings":{"selected_icon":{"value":"far fa-money-bill-alt","library":"fa-regular"},"view":"stacked","title_text":"Cash On Delivery","description_text":"Internet Trend To Repeat","position":"left","primary_color":"#FFFFFF","secondary_color":"#DF6A6A","hover_primary_color":"#DF6A6A","hover_secondary_color":"#FFFFFF","hover_animation":"pulse-grow","icon_space":{"unit":"px","size":20,"sizes":[]},"icon_size":{"unit":"px","size":25,"sizes":[]},"title_bottom_space":{"unit":"px","size":0,"sizes":[]},"title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":20,"sizes":[]},"description_color":"#8A8A8A","description_typography_typography":"custom","description_typography_font_size":{"unit":"px","size":14,"sizes":[]}},"elements":[],"widgetType":"icon-box"}],"isInner":false},{"id":"7a6233c1","elType":"column","settings":{"_column_size":25,"_inline_size":null},"elements":[{"id":"6a7f605e","elType":"widget","settings":{"selected_icon":{"value":"fas fa-gift","library":"fa-solid"},"view":"stacked","title_text":"Gift For All","description_text":"Gift When Subscribe","position":"left","primary_color":"#FFFFFF","secondary_color":"#DF6A6A","hover_primary_color":"#DF6A6A","hover_secondary_color":"#FFFFFF","hover_animation":"pulse-grow","icon_space":{"unit":"px","size":20,"sizes":[]},"icon_size":{"unit":"px","size":25,"sizes":[]},"title_bottom_space":{"unit":"px","size":0,"sizes":[]},"title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":20,"sizes":[]},"description_color":"#8A8A8A","description_typography_typography":"custom","description_typography_font_size":{"unit":"px","size":14,"sizes":[]}},"elements":[],"widgetType":"icon-box"}],"isInner":false},{"id":"40980ab5","elType":"column","settings":{"_column_size":25,"_inline_size":null},"elements":[{"id":"1f658b41","elType":"widget","settings":{"selected_icon":{"value":"far fa-clock","library":"fa-regular"},"view":"stacked","title_text":"Opening All Week","description_text":"6.00 am - 17.00pm","position":"left","primary_color":"#FFFFFF","secondary_color":"#DF6A6A","hover_primary_color":"#DF6A6A","hover_secondary_color":"#FFFFFF","hover_animation":"pulse-grow","icon_space":{"unit":"px","size":20,"sizes":[]},"icon_size":{"unit":"px","size":25,"sizes":[]},"title_bottom_space":{"unit":"px","size":0,"sizes":[]},"title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":20,"sizes":[]},"description_color":"#8A8A8A","description_typography_typography":"custom","description_typography_font_size":{"unit":"px","size":14,"sizes":[]}},"elements":[],"widgetType":"icon-box"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2.9.8]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[wp-post]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[theme-transparent-header-meta]]></wp:meta_key>
-		<wp:meta_value><![CDATA[enabled]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_page_settings]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:41:{s:22:"astra_sites_main_color";s:7:"#54595f";s:30:"astra_sites_heading_base_color";s:7:"#333333";s:22:"astra_sites_link_color";s:7:"#4e4e4e";s:28:"astra_sites_link_hover_color";s:7:"#0084d6";s:22:"astra_sites_text_color";s:7:"#333333";s:16:"background_color";s:7:"#ffffff";s:21:"background_background";s:7:"classic";s:27:"astra_sites_body_typography";s:6:"custom";s:26:"astra_sites_body_font_size";a:2:{s:4:"unit";s:2:"px";s:4:"size";s:2:"15";}s:28:"astra_sites_body_font_family";s:4:"Lato";s:28:"astra_sites_body_font_weight";s:3:"400";s:32:"astra_sites_heading_1_typography";s:6:"custom";s:31:"astra_sites_heading_1_font_size";a:2:{s:4:"unit";s:2:"px";s:4:"size";s:2:"66";}s:38:"astra_sites_heading_1_font_size_tablet";a:2:{s:4:"unit";s:2:"px";s:4:"size";s:2:"50";}s:38:"astra_sites_heading_1_font_size_mobile";a:2:{s:4:"unit";s:2:"px";s:4:"size";s:2:"30";}s:33:"astra_sites_heading_1_line_height";a:2:{s:4:"unit";s:2:"em";s:4:"size";s:3:"1.2";}s:39:"astra_sites_default_heading_font_family";s:18:"'Lato', sans-serif";s:33:"astra_sites_heading_1_font_family";s:6:"'Lato'";s:33:"astra_sites_heading_1_font_weight";s:3:"700";s:32:"astra_sites_heading_2_typography";s:6:"custom";s:31:"astra_sites_heading_2_font_size";a:2:{s:4:"unit";s:2:"px";s:4:"size";s:2:"42";}s:33:"astra_sites_heading_2_font_family";s:6:"'Lato'";s:33:"astra_sites_heading_2_font_weight";s:3:"700";s:32:"astra_sites_heading_3_typography";s:6:"custom";s:31:"astra_sites_heading_3_font_size";a:2:{s:4:"unit";s:2:"px";s:4:"size";s:2:"30";}s:33:"astra_sites_heading_3_line_height";a:2:{s:4:"unit";s:2:"em";s:4:"size";s:3:"1.5";}s:33:"astra_sites_heading_3_font_family";s:6:"'Lato'";s:33:"astra_sites_heading_3_font_weight";s:3:"700";s:32:"astra_sites_heading_4_typography";s:6:"custom";s:31:"astra_sites_heading_4_font_size";a:2:{s:4:"unit";s:2:"px";s:4:"size";s:2:"20";}s:33:"astra_sites_heading_4_font_family";s:6:"'Lato'";s:33:"astra_sites_heading_4_font_weight";s:3:"700";s:32:"astra_sites_heading_5_typography";s:6:"custom";s:31:"astra_sites_heading_5_font_size";a:2:{s:4:"unit";s:2:"px";s:4:"size";s:2:"18";}s:33:"astra_sites_heading_5_font_family";s:6:"'Lato'";s:33:"astra_sites_heading_5_font_weight";s:3:"700";s:32:"astra_sites_heading_6_typography";s:6:"custom";s:31:"astra_sites_heading_6_font_size";a:2:{s:4:"unit";s:2:"px";s:4:"size";s:2:"15";}s:33:"astra_sites_heading_6_font_family";s:6:"'Lato'";s:33:"astra_sites_heading_6_font_weight";s:3:"700";s:31:"astra_sites_page_setting_enable";s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[astra-main-page-id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[26323]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[harshadd]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_astra_sites_imported_post]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:7:"heading";a:3:{s:5:"count";i:4;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:3:{s:5:"title";i:4;s:11:"header_size";i:4;s:5:"align";i:1;}}s:5:"style";a:1:{s:19:"section_title_style";a:5:{s:11:"title_color";i:1;s:20:"typography_font_size";i:3;s:27:"typography_font_size_tablet";i:2;s:27:"typography_font_size_mobile";i:1;s:21:"typography_typography";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:8:"_padding";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:7;s:15:"control_percent";i:0;s:8:"controls";a:3:{s:6:"layout";a:1:{s:6:"layout";a:1:{s:12:"_inline_size";i:7;}}s:5:"style";a:1:{s:13:"section_style";a:2:{s:21:"background_background";i:1;s:16:"background_color";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:3:{s:7:"padding";i:1;s:14:"padding_tablet";i:1;s:14:"padding_mobile";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:3;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:6:"layout";a:2:{s:14:"section_layout";a:3:{s:3:"gap";i:1;s:16:"content_position";i:2;s:13:"content_width";i:1;}s:17:"section_structure";a:1:{s:9:"structure";i:2;}}s:5:"style";a:2:{s:18:"section_background";a:7:{s:21:"background_background";i:2;s:19:"background_position";i:1;s:21:"background_attachment";i:1;s:17:"background_repeat";i:1;s:15:"background_size";i:1;s:16:"background_color";i:2;s:16:"background_image";i:1;}s:26:"section_background_overlay";a:4:{s:24:"background_overlay_color";i:1;s:29:"background_overlay_background";i:1;s:26:"background_overlay_color_b";i:1;s:26:"background_overlay_opacity";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:3:{s:13:"margin_mobile";i:1;s:7:"padding";i:3;s:14:"padding_tablet";i:1;}}}}s:11:"text-editor";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:1;}}}}s:9:"shortcode";a:3:{s:5:"count";i:1;s:15:"control_percent";i:2;s:8:"controls";a:2:{s:7:"content";a:1:{s:17:"section_shortcode";a:1:{s:9:"shortcode";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:2:{s:7:"_margin";i:1;s:8:"_padding";i:1;}}}}s:8:"icon-box";a:3:{s:5:"count";i:4;s:15:"control_percent";i:7;s:8:"controls";a:2:{s:7:"content";a:1:{s:12:"section_icon";a:5:{s:13:"selected_icon";i:4;s:4:"view";i:4;s:10:"title_text";i:4;s:16:"description_text";i:4;s:8:"position";i:4;}}s:5:"style";a:2:{s:18:"section_style_icon";a:7:{s:13:"primary_color";i:4;s:15:"secondary_color";i:4;s:19:"hover_primary_color";i:4;s:21:"hover_secondary_color";i:4;s:15:"hover_animation";i:4;s:10:"icon_space";i:4;s:9:"icon_size";i:4;}s:21:"section_style_content";a:6:{s:18:"title_bottom_space";i:4;s:27:"title_typography_typography";i:4;s:26:"title_typography_font_size";i:4;s:17:"description_color";i:4;s:33:"description_typography_typography";i:4;s:32:"description_typography_font_size";i:4;}}}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[potter_options]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:2:{i:0;s:12:"remove-title";i:1;s:10:"full-width";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[potter_sidebar_position]]></wp:meta_key>
-		<wp:meta_value><![CDATA[none]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_astra_sites_hotlink_imported]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title></title>
-		<link>https://demos.wppotter.com/brand-store-elementor/2020/04/25/1445/</link>
-		<pubDate>Sat, 25 Apr 2020 18:41:04 +0000</pubDate>
-		<dc:creator><![CDATA[wppotter]]></dc:creator>
-		<guid isPermaLink="false">https://demos.wppotter.com/brand-store-elemntor/2020/04/25/1445/</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1445</wp:post_id>
-		<wp:post_date><![CDATA[2020-04-25 18:41:04]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-04-25 18:41:04]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[1445]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>2</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="left"><![CDATA[left]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[38]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title></title>
-		<link>https://demos.wppotter.com/brand-store-elementor/2020/04/25/1446/</link>
-		<pubDate>Sat, 25 Apr 2020 18:41:05 +0000</pubDate>
-		<dc:creator><![CDATA[wppotter]]></dc:creator>
-		<guid isPermaLink="false">https://demos.wppotter.com/brand-store-elemntor/2020/04/25/1446/</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1446</wp:post_id>
-		<wp:post_date><![CDATA[2020-04-25 18:41:05]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-04-25 18:41:05]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[1446]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>1</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="left"><![CDATA[left]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[10]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title></title>
-		<link>https://demos.wppotter.com/brand-store-elementor/2020/04/25/1447/</link>
-		<pubDate>Sat, 25 Apr 2020 18:41:05 +0000</pubDate>
-		<dc:creator><![CDATA[wppotter]]></dc:creator>
-		<guid isPermaLink="false">https://demos.wppotter.com/brand-store-elemntor/2020/04/25/1447/</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1447</wp:post_id>
-		<wp:post_date><![CDATA[2020-04-25 18:41:05]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-04-25 18:41:05]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[1447]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>6</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="left"><![CDATA[left]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[40]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title></title>
-		<link>https://demos.wppotter.com/brand-store-elementor/2020/04/25/1448/</link>
-		<pubDate>Sat, 25 Apr 2020 18:41:05 +0000</pubDate>
-		<dc:creator><![CDATA[wppotter]]></dc:creator>
-		<guid isPermaLink="false">https://demos.wppotter.com/brand-store-elemntor/2020/04/25/1448/</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1448</wp:post_id>
-		<wp:post_date><![CDATA[2020-04-25 18:41:05]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-04-25 18:41:05]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[1448]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>3</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="left"><![CDATA[left]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[32]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1445]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[product_cat]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title></title>
-		<link>https://demos.wppotter.com/brand-store-elementor/2020/04/25/1449/</link>
-		<pubDate>Sat, 25 Apr 2020 18:41:05 +0000</pubDate>
-		<dc:creator><![CDATA[wppotter]]></dc:creator>
-		<guid isPermaLink="false">https://demos.wppotter.com/brand-store-elemntor/2020/04/25/1449/</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1449</wp:post_id>
-		<wp:post_date><![CDATA[2020-04-25 18:41:05]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-04-25 18:41:05]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[1449]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>4</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="left"><![CDATA[left]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1445]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[29]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[product_cat]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title></title>
-		<link>https://demos.wppotter.com/brand-store-elementor/2020/04/25/1450/</link>
-		<pubDate>Sat, 25 Apr 2020 18:41:05 +0000</pubDate>
-		<dc:creator><![CDATA[wppotter]]></dc:creator>
-		<guid isPermaLink="false">https://demos.wppotter.com/brand-store-elemntor/2020/04/25/1450/</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1450</wp:post_id>
-		<wp:post_date><![CDATA[2020-04-25 18:41:05]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-04-25 18:41:05]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[1450]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>5</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="left"><![CDATA[left]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1445]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[26]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[product_cat]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -7737,6 +8124,80 @@ Gift When Subscribe
 		</wp:postmeta>
 							</item>
 					<item>
+		<title>GET15OFF</title>
+		<link>https://demos.wppotter.com/brand-store-elementor/?post_type=shop_coupon&#038;p=104</link>
+		<pubDate>Mon, 18 Dec 2017 07:16:03 +0000</pubDate>
+		<dc:creator><![CDATA[wppotter]]></dc:creator>
+		<guid isPermaLink="false">https://demos.wppotter.com/brand-store-elemntor/?post_type=shop_coupon&#038;p=104</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[Mauris in erat justo. Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit sed ut.]]></excerpt:encoded>
+		<wp:post_id>104</wp:post_id>
+		<wp:post_date><![CDATA[2017-12-18 07:16:03]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-12-18 07:16:03]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[104]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[shop_coupon]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[discount_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[percent]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[coupon_amount]]></wp:meta_key>
+		<wp:meta_value><![CDATA[15]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[individual_use]]></wp:meta_key>
+		<wp:meta_value><![CDATA[yes]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[usage_limit_per_user]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[date_expires]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1518566400]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[expiry_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-02-14]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[free_shipping]]></wp:meta_key>
+		<wp:meta_value><![CDATA[yes]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[product_categories]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;i:33;}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[exclude_product_categories]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;i:29;}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[exclude_sale_items]]></wp:meta_key>
+		<wp:meta_value><![CDATA[yes]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[customer_email]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[harshadd]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_astra_sites_imported_post]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title>Basic Gray Jeans</title>
 		<link>https://demos.wppotter.com/brand-store-elementor/product/basic-gray-jeans/</link>
 		<pubDate>Tue, 19 Dec 2017 10:50:33 +0000</pubDate>
@@ -8095,6 +8556,100 @@ Gift When Subscribe
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wxr_import_term]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:3:{s:8:"taxonomy";s:8:"pa_color";s:4:"slug";s:4:"blue";s:4:"name";s:4:"Blue";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_astra_sites_imported_post]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Blue Tshirt - l, green</title>
+		<link>https://demos.wppotter.com/brand-store-elementor/product/dnk-cross-tshirt/?attribute_pa_size=l&#038;attribute_pa_color=green</link>
+		<pubDate>Tue, 19 Dec 2017 14:10:33 +0000</pubDate>
+		<dc:creator><![CDATA[wppotter]]></dc:creator>
+		<guid isPermaLink="false">https://demos.wppotter.com/brand-store-elemntor/product/dnk-cross-tshirt/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[pa_size: l, pa_color: green]]></excerpt:encoded>
+		<wp:post_id>290</wp:post_id>
+		<wp:post_date><![CDATA[2017-12-19 14:10:33]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2017-12-19 14:10:33]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[aqua-tshirt-green-l__trashed]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
+		<wp:post_parent>142</wp:post_parent>
+		<wp:menu_order>7</wp:menu_order>
+		<wp:post_type><![CDATA[product_variation]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_default_attributes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_virtual]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_downloadable]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_download_limit]]></wp:meta_key>
+		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_download_expiry]]></wp:meta_key>
+		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[instock]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wc_rating_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_downloadable_files]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[attribute_pa_color]]></wp:meta_key>
+		<wp:meta_value><![CDATA[green]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[attribute_pa_size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[l]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[45]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
+		<wp:meta_value><![CDATA[3.5.2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[aqua-tshirt-green-l]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[site-sidebar-layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[site-content-layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[theme-transparent-header-meta]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[harshadd]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_astra_sites_imported_post]]></wp:meta_key>
@@ -8858,174 +9413,6 @@ Gift When Subscribe
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>GET15OFF</title>
-		<link>https://demos.wppotter.com/brand-store-elementor/?post_type=shop_coupon&#038;p=104</link>
-		<pubDate>Mon, 18 Dec 2017 07:16:03 +0000</pubDate>
-		<dc:creator><![CDATA[wppotter]]></dc:creator>
-		<guid isPermaLink="false">https://demos.wppotter.com/brand-store-elemntor/?post_type=shop_coupon&#038;p=104</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[Mauris in erat justo. Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit sed ut.]]></excerpt:encoded>
-		<wp:post_id>104</wp:post_id>
-		<wp:post_date><![CDATA[2017-12-18 07:16:03]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2017-12-18 07:16:03]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[104]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[shop_coupon]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[discount_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[percent]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[coupon_amount]]></wp:meta_key>
-		<wp:meta_value><![CDATA[15]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[individual_use]]></wp:meta_key>
-		<wp:meta_value><![CDATA[yes]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[usage_limit_per_user]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[date_expires]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1518566400]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[expiry_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2018-02-14]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[free_shipping]]></wp:meta_key>
-		<wp:meta_value><![CDATA[yes]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[product_categories]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;i:33;}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[exclude_product_categories]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;i:29;}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[exclude_sale_items]]></wp:meta_key>
-		<wp:meta_value><![CDATA[yes]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[customer_email]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[harshadd]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_astra_sites_imported_post]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Blue Tshirt</title>
-		<link>https://demos.wppotter.com/brand-store-elementor/product/dnk-cross-tshirt/?attribute_pa_size=l&#038;attribute_pa_color=green</link>
-		<pubDate>Tue, 19 Dec 2017 14:10:33 +0000</pubDate>
-		<dc:creator><![CDATA[wppotter]]></dc:creator>
-		<guid isPermaLink="false">https://demos.wppotter.com/brand-store-elemntor/product/dnk-cross-tshirt/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>290</wp:post_id>
-		<wp:post_date><![CDATA[2017-12-19 14:10:33]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2017-12-19 14:10:33]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[aqua-tshirt-green-l__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>142</wp:post_parent>
-		<wp:menu_order>7</wp:menu_order>
-		<wp:post_type><![CDATA[product_variation]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_default_attributes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_virtual]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_downloadable]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_download_limit]]></wp:meta_key>
-		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_download_expiry]]></wp:meta_key>
-		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[instock]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wc_rating_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_downloadable_files]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[attribute_pa_color]]></wp:meta_key>
-		<wp:meta_value><![CDATA[green]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[attribute_pa_size]]></wp:meta_key>
-		<wp:meta_value><![CDATA[l]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[45]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3.5.2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[aqua-tshirt-green-l]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[site-sidebar-layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[site-content-layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[theme-transparent-header-meta]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[harshadd]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_astra_sites_imported_post]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title>Dark Brown Jeans</title>
 		<link>https://demos.wppotter.com/brand-store-elementor/product/dark-brown-jeans/</link>
 		<pubDate>Wed, 20 Dec 2017 14:16:27 +0000</pubDate>
@@ -9758,6 +10145,138 @@ Gift When Subscribe
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_astra_sites_imported_post]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Contact</title>
+		<link>https://demos.wppotter.com/brand-store-elementor/?post_type=wpcf7_contact_form&#038;p=1581</link>
+		<pubDate>Mon, 27 Apr 2020 11:38:21 +0000</pubDate>
+		<dc:creator><![CDATA[wppotter]]></dc:creator>
+		<guid isPermaLink="false">https://demos.wppotter.com/brand-store-elementor/?post_type=wpcf7_contact_form&#038;p=1581</guid>
+		<description></description>
+		<content:encoded><![CDATA[<label> Your Name (required)
+    [text* your-name] </label>
+
+<label> Your Email (required)
+    [email* your-email] </label>
+
+<label> Subject
+    [text your-subject] </label>
+
+<label> Your Message
+    [textarea your-message] </label>
+
+[submit "Send"]
+1
+Brand Store "[your-subject]"
+Brand Store <wordpress@demos.wppotter.com>
+info@wppotter.com
+From: [your-name] <[your-email]>
+Subject: [your-subject]
+
+Message Body:
+[your-message]
+
+-- 
+This e-mail was sent from a contact form on Brand Store (https://demos.wppotter.com/brand-store-elementor)
+Reply-To: [your-email]
+
+
+
+
+Brand Store "[your-subject]"
+Brand Store <wordpress@demos.wppotter.com>
+[your-email]
+Message Body:
+[your-message]
+
+-- 
+This e-mail was sent from a contact form on Brand Store (https://demos.wppotter.com/brand-store-elementor)
+Reply-To: info@wppotter.com
+
+
+
+Thank you for your message. It has been sent.
+There was an error trying to send your message. Please try again later.
+One or more fields have an error. Please check and try again.
+There was an error trying to send your message. Please try again later.
+You must accept the terms and conditions before sending your message.
+The field is required.
+The field is too long.
+The field is too short.
+The date format is incorrect.
+The date is before the earliest one allowed.
+The date is after the latest one allowed.
+There was an unknown error uploading the file.
+You are not allowed to upload files of this type.
+The file is too big.
+There was an error uploading the file.
+The number format is invalid.
+The number is smaller than the minimum allowed.
+The number is larger than the maximum allowed.
+The answer to the quiz is incorrect.
+The e-mail address entered is invalid.
+The URL is invalid.
+The telephone number is invalid.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1581</wp:post_id>
+		<wp:post_date><![CDATA[2020-04-27 11:38:21]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-04-27 11:38:21]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[contact]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wpcf7_contact_form]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_additional_settings]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_locale]]></wp:meta_key>
+		<wp:meta_value><![CDATA[en_US]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:22:{s:12:"mail_sent_ok";s:45:"Thank you for your message. It has been sent.";s:12:"mail_sent_ng";s:71:"There was an error trying to send your message. Please try again later.";s:16:"validation_error";s:61:"One or more fields have an error. Please check and try again.";s:4:"spam";s:71:"There was an error trying to send your message. Please try again later.";s:12:"accept_terms";s:69:"You must accept the terms and conditions before sending your message.";s:16:"invalid_required";s:22:"The field is required.";s:16:"invalid_too_long";s:22:"The field is too long.";s:17:"invalid_too_short";s:23:"The field is too short.";s:12:"invalid_date";s:29:"The date format is incorrect.";s:14:"date_too_early";s:44:"The date is before the earliest one allowed.";s:13:"date_too_late";s:41:"The date is after the latest one allowed.";s:13:"upload_failed";s:46:"There was an unknown error uploading the file.";s:24:"upload_file_type_invalid";s:49:"You are not allowed to upload files of this type.";s:21:"upload_file_too_large";s:20:"The file is too big.";s:23:"upload_failed_php_error";s:38:"There was an error uploading the file.";s:14:"invalid_number";s:29:"The number format is invalid.";s:16:"number_too_small";s:47:"The number is smaller than the minimum allowed.";s:16:"number_too_large";s:46:"The number is larger than the maximum allowed.";s:23:"quiz_answer_not_correct";s:36:"The answer to the quiz is incorrect.";s:13:"invalid_email";s:38:"The e-mail address entered is invalid.";s:11:"invalid_url";s:19:"The URL is invalid.";s:11:"invalid_tel";s:32:"The telephone number is invalid.";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_form]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<label> Your Name (required)
+    [text* your-name] </label>
+
+<label> Your Email (required)
+    [email* your-email] </label>
+
+<label> Subject
+    [text your-subject] </label>
+
+<label> Your Message
+    [textarea your-message] </label>
+
+[submit "Send"]]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:28:"Brand Store "[your-subject]"";s:6:"sender";s:42:"Brand Store <wordpress@demos.wppotter.com>";s:9:"recipient";s:17:"info@wppotter.com";s:4:"body";s:198:"From: [your-name] <[your-email]>
+Subject: [your-subject]
+
+Message Body:
+[your-message]
+
+-- 
+This e-mail was sent from a contact form on Brand Store (https://demos.wppotter.com/brand-store-elementor)";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:28:"Brand Store "[your-subject]"";s:6:"sender";s:42:"Brand Store <wordpress@demos.wppotter.com>";s:9:"recipient";s:12:"[your-email]";s:4:"body";s:140:"Message Body:
+[your-message]
+
+-- 
+This e-mail was sent from a contact form on Brand Store (https://demos.wppotter.com/brand-store-elementor)";s:18:"additional_headers";s:27:"Reply-To: info@wppotter.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 				</channel>
