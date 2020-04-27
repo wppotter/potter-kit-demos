@@ -99,9 +99,9 @@
           "name": "Beaver Builder",
           "slug": "beaver-builder-lite-version/fl-builder.php"
         },
-        "wpforms-lite": {
-          "name": "WPForms",
-          "slug": "wpforms-lite/wpforms.php"
+        "contact-form-7": {
+          "name": "Contact Form 7",
+          "slug": "contact-form-7/wp-contact-form-7.php"
         }
       },
       "core_options": {
@@ -200,9 +200,9 @@
           "name": "WooCommerce",
           "slug": "woocommerce/woocommerce.php"
         },
-        "wpforms-lite": {
-          "name": "WPForms",
-          "slug": "wpforms-lite/wpforms.php"
+        "contact-form-7": {
+          "name": "Contact Form 7",
+          "slug": "contact-form-7/wp-contact-form-7.php"
         }
       },
       "core_options": {
