@@ -52,7 +52,8 @@
       "core_options": {
         "blogname": "Potter Lifestyle Blog",
         "page_on_front": "Home",
-        "page_for_posts": "Articles"
+        "page_for_posts": "Articles",
+        "page_for_shop": "Our Shop"
       },
       "elementor_schemes": {
         "color": [
