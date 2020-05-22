@@ -18,6 +18,141 @@
     "gutenberg": "Gutenberg"
   },
   "demos": {
+    "potter-lifestyle-blog": {
+      "title": "Lifestyle Blog",
+      "preview": "https://demos.wppotter.com/lifestyle-blog/",
+      "description": "Use this demo to create your Lifestyle Blog with WooCommerece Store in no time.",
+      "template": [
+        "potter"
+      ],
+      "category": [
+        "all",
+        "business",
+        "blog",
+        "others"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "woocommerce": {
+          "name": "WooCommerce",
+          "slug": "woocommerce/woocommerce.php"
+        },
+        "elementskit-lite": {
+          "name": "Elements kit",
+          "slug": "elementskit-lite/elementskit-lite.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Potter Lifestyle Blog",
+        "page_on_front": "Home",
+        "page_for_posts": "Articles"
+      },
+      "elementor_schemes": {
+        "color": [
+          "#CC8B38",
+          "#000000",
+          "#3e3e3e",
+          "#f2911c"
+        ],
+        "typography": {
+          "primary": {
+            "font_family": "Lora",
+            "font_weight": "500"
+          },
+          "secondary": {
+            "font_family": "Lora",
+            "font_weight": "600"
+          },
+          "body": {
+            "font_family": "Alegreya Sans",
+            "font_weight": "400"
+          },
+          "accent": {
+            "font_family": "Alegreya Sans",
+            "font_weight": "500"
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "main_menu": "Main",
+          "mobile_menu": "Main",
+          "footer_menu": "Social"
+        }
+      }
+    },
+    "potter-tea-store": {
+      "title": "Green Tea Store",
+      "preview": "https://demos.wppotter.com/potter-spa-elementor/",
+      "description": "Use this demo to create your Lifestyle Blog with WooCommerece Store in no time.",
+      "template": [
+        "potter"
+      ],
+      "category": [
+        "all",
+        "business",
+        "blog",
+        "eCommerce",
+        "others"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        },
+        "woocommerce": {
+          "name": "WooCommerce",
+          "slug": "woocommerce/woocommerce.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Potter Tea Store",
+        "page_on_front": "Home"
+      },
+      "elementor_schemes": {
+        "color": [
+          "#418b0d",
+          "#367608",
+          "#3e3e3e",
+          "#f2911c"
+        ],
+        "typography": {
+          "primary": {
+            "font_family": "Playfair Display",
+            "font_weight": "500"
+          },
+          "secondary": {
+            "font_family": "Playfair Display",
+            "font_weight": "600"
+          },
+          "body": {
+            "font_family": "Montserrat",
+            "font_weight": "300"
+          },
+          "accent": {
+            "font_family": "Montserrat",
+            "font_weight": "300"
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "main_menu": "Main",
+          "mobile_menu": "Main"
+        }
+      }
+    },
     "potter-spa": {
       "title": "Spa",
       "preview": "https://demos.wppotter.com/potter-spa-elementor/",
