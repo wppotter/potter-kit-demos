@@ -8,8 +8,7 @@
     "blog": "Blog",
     "business": "Business",
     "ecommerce": "eCommerce",
-    "one-page": "One Page",
-    "others": "Others"
+    "one-page": "One Page"
   },
   "pagebuilders": {
     "all": "All",
@@ -27,8 +26,7 @@
       ],
       "category": [
         "all",
-        "business",
-        "others"
+        "business"
       ],
       "pagebuilder": [
         "all",
@@ -42,7 +40,7 @@
       },
       "core_options": {
         "blogname": "Potter Digital Agency",
-          "page_on_front": "Home"
+        "page_on_front": "Home"
       },
       "customizer_data_update": {
         "nav_menu_locations": {
@@ -63,7 +61,7 @@
             "font_weight": "600"
           },
           "secondary": {
-            "font_family": "Poppins",
+            "font_family": "Playfair Display",
             "font_weight": "600"
           },
           "body": {
@@ -86,8 +84,7 @@
       ],
       "category": [
         "all",
-        "blog",
-        "others"
+        "blog"
       ],
       "pagebuilder": [
         "all",
@@ -145,8 +142,7 @@
       "category": [
         "all",
         "business",
-        "blog",
-        "others"
+        "blog"
       ],
       "pagebuilder": [
         "all",
@@ -169,8 +165,7 @@
       "core_options": {
         "blogname": "Potter Lifestyle Blog",
         "page_on_front": "Home",
-        "page_for_posts": "Articles",
-        "page_for_shop": "Our Shop"
+        "page_for_posts": "Articles"
       },
       "elementor_schemes": {
         "color": [
@@ -217,8 +212,7 @@
         "all",
         "business",
         "blog",
-        "eCommerce",
-        "others"
+        "eCommerce"
       ],
       "pagebuilder": [
         "all",
@@ -280,8 +274,7 @@
       ],
       "category": [
         "all",
-        "business",
-        "others"
+        "business"
       ],
       "pagebuilder": [
         "all",
@@ -340,8 +333,7 @@
       ],
       "category": [
         "all",
-        "business",
-        "others"
+        "business"
       ],
       "pagebuilder": [
         "all",
@@ -381,8 +373,7 @@
       ],
       "category": [
         "all",
-        "business",
-        "others"
+        "business"
       ],
       "pagebuilder": [
         "all",
@@ -441,8 +432,7 @@
       "category": [
         "all",
         "business",
-        "ecommerce",
-        "others"
+        "ecommerce"
       ],
       "pagebuilder": [
         "all",
@@ -510,8 +500,7 @@
       "category": [
         "all",
         "business",
-        "one-page",
-        "others"
+        "one-page"
       ],
       "pagebuilder": [
         "all",
@@ -570,8 +559,7 @@
       "category": [
         "all",
         "business",
-        "blog",
-        "others"
+        "blog"
       ],
       "pagebuilder": [
         "all",
