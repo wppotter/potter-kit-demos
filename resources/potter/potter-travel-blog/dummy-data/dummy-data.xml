@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.4" created="2020-04-27 08:08" -->
+	<!-- generator="WordPress/5.4.2" created="2020-06-13 12:04" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,13 +29,13 @@
 	<title>My Travel Blog</title>
 	<link>https://demos.wppotter.com/travel-blog-gutenberg</link>
 	<description>Just another Potter Kit Demos site</description>
-	<pubDate>Mon, 27 Apr 2020 08:08:25 +0000</pubDate>
+	<pubDate>Sat, 13 Jun 2020 12:04:34 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://demos.wppotter.com/</wp:base_site_url>
 	<wp:base_blog_url>https://demos.wppotter.com/travel-blog-gutenberg</wp:base_blog_url>
 
-		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[wppotter]]></wp:author_login><wp:author_email><![CDATA[info@wppotter.com]]></wp:author_email><wp:author_display_name><![CDATA[wppotter]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[wppotter]]></wp:author_login><wp:author_email><![CDATA[info@wppotter.com]]></wp:author_email><wp:author_display_name><![CDATA[Eric]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
 		<wp:category>
 		<wp:term_id>3</wp:term_id>
@@ -58,7 +58,7 @@
 					<wp:term><wp:term_id>4</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[mainmenu]]></wp:term_slug><wp:term_name><![CDATA[Mainmenu]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.4</generator>
+	<generator>https://wordpress.org/?v=5.4.2</generator>
 
 		<item>
 		<title>maria</title>
@@ -644,61 +644,6 @@ border-style: solid;
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
-		<link>https://demos.wppotter.com/travel-blog-gutenberg/2020/04/23/1077/</link>
-		<pubDate>Thu, 23 Apr 2020 18:03:35 +0000</pubDate>
-		<dc:creator><![CDATA[wppotter]]></dc:creator>
-		<guid isPermaLink="false">https://demos.wppotter.com/travel-blog-gutenberg/2020/04/23/1077/</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1077</wp:post_id>
-		<wp:post_date><![CDATA[2020-04-23 18:03:35]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-04-23 18:03:35]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[1077]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>3</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="mainmenu"><![CDATA[Mainmenu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1072]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title>squirrel, verifiable kitten, rodent-5033827</title>
 		<link>https://demos.wppotter.com/travel-blog-gutenberg/squirrel-verifiable-kitten-rodent-5033827/</link>
 		<pubDate>Thu, 23 Apr 2020 18:06:58 +0000</pubDate>
@@ -836,6 +781,36 @@ border-style: solid;
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:1500;s:4:"file";s:33:"2020/04/pexels-photo-3094219.jpeg";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:33:"pexels-photo-3094219-200x300.jpeg";s:5:"width";i:200;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:34:"pexels-photo-3094219-683x1024.jpeg";s:5:"width";i:683;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:33:"pexels-photo-3094219-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:34:"pexels-photo-3094219-768x1152.jpeg";s:5:"width";i:768;s:6:"height";i:1152;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:33:"pexels-photo-3094219-160x240.jpeg";s:5:"width";i:160;s:6:"height";i:240;s:9:"mime-type";s:10:"image/jpeg";}s:21:"potter-homepage-thumb";a:4:{s:4:"file";s:33:"pexels-photo-3094219-120x180.jpeg";s:5:"width";i:120;s:6:"height";i:180;s:9:"mime-type";s:10:"image/jpeg";}s:21:"potter-fullpage-thumb";a:4:{s:4:"file";s:33:"pexels-photo-3094219-533x800.jpeg";s:5:"width";i:533;s:6:"height";i:800;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Default Kit</title>
+		<link>https://demos.wppotter.com/travel-blog-gutenberg/?elementor_library=default-kit</link>
+		<pubDate>Wed, 03 Jun 2020 15:26:42 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">https://demos.wppotter.com/travel-blog-gutenberg/?elementor_library=default-kit</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1113</wp:post_id>
+		<wp:post_date><![CDATA[2020-06-03 15:26:42]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-06-03 15:26:42]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[default-kit]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[elementor_library]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[builder]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[kit]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1175,6 +1150,14 @@ Etiam id ex at erat fermentum luctus maximus et justo. Aenean ultricies faucibus
 		<wp:meta_key><![CDATA[potter_sidebar_position]]></wp:meta_key>
 		<wp:meta_value><![CDATA[global]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[uag_style_timestamp-css]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1590091261]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[ekit_post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[11]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title>The Best Places to Stay in Moorea, Tahiti</title>
@@ -1283,6 +1266,14 @@ Etiam id ex at erat fermentum luctus maximus et justo. Aenean ultricies faucibus
 		<wp:meta_key><![CDATA[potter_sidebar_position]]></wp:meta_key>
 		<wp:meta_value><![CDATA[global]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[uag_style_timestamp-css]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1590097218]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[ekit_post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[11]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title>10 of the Safest Caribbean Islands</title>
@@ -1390,6 +1381,14 @@ Etiam id ex at erat fermentum luctus maximus et justo. Aenean ultricies faucibus
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[potter_sidebar_position]]></wp:meta_key>
 		<wp:meta_value><![CDATA[global]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[uag_style_timestamp-css]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1590097157]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[ekit_post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[6]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1503,6 +1502,14 @@ Etiam id ex at erat fermentum luctus maximus et justo. Aenean ultricies faucibus
 		<wp:meta_key><![CDATA[potter_sidebar_position]]></wp:meta_key>
 		<wp:meta_value><![CDATA[global]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[ekit_post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[12]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[uag_style_timestamp-css]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1590097157]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title>What to see in Bali: 9 Off The Path Bali highlights for adventurers!</title>
@@ -1552,6 +1559,10 @@ Etiam id ex at erat fermentum luctus maximus et justo. Aenean ultricies faucibus
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="category" nicename="adventure-place"><![CDATA[Adventure place]]></category>
 						<wp:postmeta>
+		<wp:meta_key><![CDATA[ekit_post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[10]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[site-sidebar-layout]]></wp:meta_key>
 		<wp:meta_value><![CDATA[no-sidebar]]></wp:meta_value>
 		</wp:postmeta>
@@ -1614,6 +1625,10 @@ Etiam id ex at erat fermentum luctus maximus et justo. Aenean ultricies faucibus
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[potter_sidebar_position]]></wp:meta_key>
 		<wp:meta_value><![CDATA[global]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[uag_style_timestamp-css]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1590097096]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1731,6 +1746,14 @@ Etiam id ex at erat fermentum luctus maximus et justo. Aenean ultricies faucibus
 		<wp:meta_key><![CDATA[potter_sidebar_position]]></wp:meta_key>
 		<wp:meta_value><![CDATA[global]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[uag_style_timestamp-css]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1590091139]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[ekit_post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[16]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title>My go-to ways to get more off the beaten track while traveling</title>
@@ -1812,7 +1835,25 @@ Etiam id ex at erat fermentum luctus maximus et justo. Aenean ultricies faucibus
 		<wp:meta_key><![CDATA[potter_sidebar_position]]></wp:meta_key>
 		<wp:meta_value><![CDATA[global]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[ekit_post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[19]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:comment>
+			<wp:comment_id>2</wp:comment_id>
+			<wp:comment_author><![CDATA[Eric]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[info@wppotter.com]]></wp:comment_author_email>
+			<wp:comment_author_url>https://demos.wppotter.com</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[117.211.211.113]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2020-06-03 11:22:47]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2020-06-03 11:22:47]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[fefsdf]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>1</wp:comment_user_id>
+							</wp:comment>
+					</item>
 					<item>
 		<title>Blog</title>
 		<link>https://demos.wppotter.com/travel-blog-gutenberg/blog/</link>
@@ -1845,6 +1886,61 @@ Etiam id ex at erat fermentum luctus maximus et justo. Aenean ultricies faucibus
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[potter_sidebar_position]]></wp:meta_key>
 		<wp:meta_value><![CDATA[global]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title></title>
+		<link>https://demos.wppotter.com/travel-blog-gutenberg/2020/04/23/1077/</link>
+		<pubDate>Thu, 23 Apr 2020 18:03:35 +0000</pubDate>
+		<dc:creator><![CDATA[wppotter]]></dc:creator>
+		<guid isPermaLink="false">https://demos.wppotter.com/travel-blog-gutenberg/2020/04/23/1077/</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1077</wp:post_id>
+		<wp:post_date><![CDATA[2020-04-23 18:03:35]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-04-23 18:03:35]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[1077]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>3</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="mainmenu"><![CDATA[Mainmenu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1072]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>

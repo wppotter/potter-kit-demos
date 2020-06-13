@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.4" created="2020-04-27 07:05" -->
+	<!-- generator="WordPress/5.4.2" created="2020-06-13 11:55" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,13 +29,13 @@
 	<title>Potter Spa</title>
 	<link>https://demos.wppotter.com/potter-spa-elementor</link>
 	<description>Just another Potter Kit Demos site</description>
-	<pubDate>Mon, 27 Apr 2020 07:05:24 +0000</pubDate>
+	<pubDate>Sat, 13 Jun 2020 11:55:55 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://demos.wppotter.com/</wp:base_site_url>
 	<wp:base_blog_url>https://demos.wppotter.com/potter-spa-elementor</wp:base_blog_url>
 
-		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[wppotter]]></wp:author_login><wp:author_email><![CDATA[info@wppotter.com]]></wp:author_email><wp:author_display_name><![CDATA[wppotter]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[wppotter]]></wp:author_login><wp:author_email><![CDATA[info@wppotter.com]]></wp:author_email><wp:author_display_name><![CDATA[Eric]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
 		<wp:category>
 		<wp:term_id>1</wp:term_id>
@@ -53,7 +53,7 @@
 			<wp:term><wp:term_id>3</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main-menu]]></wp:term_slug><wp:term_name><![CDATA[Main Menu]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.4</generator>
+	<generator>https://wordpress.org/?v=5.4.2</generator>
 
 		<item>
 		<title>bg-22-copyright</title>
@@ -1573,6 +1573,10 @@ Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots 
 		<wp:meta_key><![CDATA[potter_sidebar_position]]></wp:meta_key>
 		<wp:meta_value><![CDATA[global]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[ekit_post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[9]]></wp:meta_value>
+		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>1</wp:comment_id>
 			<wp:comment_author><![CDATA[A WordPress Commenter]]></wp:comment_author>
@@ -2266,6 +2270,10 @@ Health Solutions</h2>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[potter_sidebar_position]]></wp:meta_key>
 		<wp:meta_value><![CDATA[global]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[ekit_post_views_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[7]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
