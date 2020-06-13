@@ -17,121 +17,6 @@
     "gutenberg": "Gutenberg"
   },
   "demos": {
-    "potter-digital-agency2": {
-      "title": "Digital Agency",
-      "preview": "https://demos.wppotter.com/digita-agency/",
-      "description": "Use this demo to create Digital Agency One page Website.",
-      "template": [
-        "potter"
-      ],
-      "category": [
-        "all",
-        "business"
-      ],
-      "pagebuilder": [
-        "all",
-        "elementor"
-      ],
-      "plugins_list": {
-        "elementor": {
-          "name": "Elementor",
-          "slug": "elementor/elementor.php"
-        }
-      },
-      "core_options": {
-        "blogname": "Potter Digital Agency",
-        "page_on_front": "Home"
-      },
-      "customizer_data_update": {
-        "nav_menu_locations": {
-          "main_menu": "Main Menu",
-          "mobile_menu": "Main Menu"
-        }
-      },
-      "elementor_schemes": {
-        "color": [
-          "#FD9E07",
-          "#2D1A6B",
-          "#ffffff",
-          "#818181"
-        ],
-        "typography": {
-          "primary": {
-            "font_family": "Playfair Display",
-            "font_weight": "600"
-          },
-          "secondary": {
-            "font_family": "Playfair Display",
-            "font_weight": "600"
-          },
-          "body": {
-            "font_family": "Montserrat",
-            "font_weight": "400"
-          },
-          "accent": {
-            "font_family": "Montserrat",
-            "font_weight": "400"
-          }
-        }
-      }
-    },
-    "potter-movie-blog": {
-      "title": "Potter Movie Blog",
-      "preview": "https://demos.wppotter.com/movie-blog/",
-      "description": "Use this blog demo to create your movie or magazine website.",
-      "template": [
-        "potter"
-      ],
-      "category": [
-        "all",
-        "blog"
-      ],
-      "pagebuilder": [
-        "all",
-        "elementor"
-      ],
-      "plugins_list": {
-        "elementor": {
-          "name": "Elementor",
-          "slug": "elementor/elementor.php"
-        }
-      },
-      "core_options": {
-        "blogname": "Potter Movie Blog"
-      },
-      "customizer_data_update": {
-        "nav_menu_locations": {
-          "main_menu": "Main",
-          "mobile_menu": "Main"
-        }
-      },
-      "elementor_schemes": {
-        "color": [
-          "#FC0707",
-          "#FC0707",
-          "#000000",
-          "#0779E4"
-        ],
-        "typography": {
-          "primary": {
-            "font_family": "Poppins",
-            "font_weight": "600"
-          },
-          "secondary": {
-            "font_family": "Poppins",
-            "font_weight": "600"
-          },
-          "body": {
-            "font_family": "Poppins",
-            "font_weight": "400"
-          },
-          "accent": {
-            "font_family": "Poppins",
-            "font_weight": "400"
-          }
-        }
-      }
-    },
     "potter-lifestyle-blog": {
       "title": "Lifestyle Blog",
       "preview": "https://demos.wppotter.com/lifestyle-blog/",
@@ -580,6 +465,121 @@
         "nav_menu_locations": {
           "main_menu": "Mainmenu",
           "mobile_menu": "Mainmenu"
+        }
+      }
+    },
+    "potter-digital-agency2": {
+      "title": "Digital Agency",
+      "preview": "https://demos.wppotter.com/digita-agency/",
+      "description": "Use this demo to create Digital Agency One page Website.",
+      "template": [
+        "potter"
+      ],
+      "category": [
+        "all",
+        "business"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Potter Digital Agency",
+        "page_on_front": "Home"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "main_menu": "Main Menu",
+          "mobile_menu": "Main Menu"
+        }
+      },
+      "elementor_schemes": {
+        "color": [
+          "#FD9E07",
+          "#2D1A6B",
+          "#ffffff",
+          "#818181"
+        ],
+        "typography": {
+          "primary": {
+            "font_family": "Playfair Display",
+            "font_weight": "600"
+          },
+          "secondary": {
+            "font_family": "Playfair Display",
+            "font_weight": "600"
+          },
+          "body": {
+            "font_family": "Montserrat",
+            "font_weight": "400"
+          },
+          "accent": {
+            "font_family": "Montserrat",
+            "font_weight": "400"
+          }
+        }
+      }
+    },
+    "potter-movie-blog": {
+      "title": "Potter Movie Blog",
+      "preview": "https://demos.wppotter.com/movie-blog/",
+      "description": "Use this blog demo to create your movie or magazine website.",
+      "template": [
+        "potter"
+      ],
+      "category": [
+        "all",
+        "blog"
+      ],
+      "pagebuilder": [
+        "all",
+        "elementor"
+      ],
+      "plugins_list": {
+        "elementor": {
+          "name": "Elementor",
+          "slug": "elementor/elementor.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Potter Movie Blog"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "main_menu": "Main",
+          "mobile_menu": "Main"
+        }
+      },
+      "elementor_schemes": {
+        "color": [
+          "#FC0707",
+          "#FC0707",
+          "#000000",
+          "#0779E4"
+        ],
+        "typography": {
+          "primary": {
+            "font_family": "Poppins",
+            "font_weight": "600"
+          },
+          "secondary": {
+            "font_family": "Poppins",
+            "font_weight": "600"
+          },
+          "body": {
+            "font_family": "Poppins",
+            "font_weight": "400"
+          },
+          "accent": {
+            "font_family": "Poppins",
+            "font_weight": "400"
+          }
         }
       }
     }
