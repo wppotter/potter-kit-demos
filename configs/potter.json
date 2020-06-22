@@ -468,6 +468,40 @@
         }
       }
     },
+    "potter-creative-designer": {
+      "title": "Creative Designer",
+      "preview": "https://demos.wppotter.com/creative-designer/",
+      "description": "Use this demo to create your designer portfolio.",
+      "template": [
+        "potter"
+      ],
+      "category": [
+        "all",
+        "business",
+        "blog"
+      ],
+      "pagebuilder": [
+        "all",
+        "gutenberg"
+      ],
+      "plugins_list": {
+        "getwid": {
+          "name": "Getwid",
+          "slug": "getwid/getwid.php"
+        }
+      },
+      "core_options": {
+        "blogname": "Potter Creative Designer",
+        "page_on_front": "Home",
+        "page_for_posts": "Blog"
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "main_menu": "Main",
+          "mobile_menu": "Main"
+        }
+      }
+    },
     "potter-digital-agency2": {
       "title": "Digital Agency",
       "preview": "https://demos.wppotter.com/digita-agency/",
