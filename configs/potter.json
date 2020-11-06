@@ -559,63 +559,6 @@
           }
         }
       }
-    },
-    "potter-movie-blog": {
-      "title": "Potter Movie Blog",
-      "preview": "https://demos.wppotter.com/movie-blog/",
-      "description": "Use this blog demo to create your movie or magazine website.",
-      "template": [
-        "potter"
-      ],
-      "category": [
-        "all",
-        "blog"
-      ],
-      "pagebuilder": [
-        "all",
-        "elementor"
-      ],
-      "plugins_list": {
-        "elementor": {
-          "name": "Elementor",
-          "slug": "elementor/elementor.php"
-        }
-      },
-      "core_options": {
-        "blogname": "Potter Movie Blog"
-      },
-      "customizer_data_update": {
-        "nav_menu_locations": {
-          "main_menu": "Main",
-          "mobile_menu": "Main"
-        }
-      },
-      "elementor_schemes": {
-        "color": [
-          "#FC0707",
-          "#FC0707",
-          "#000000",
-          "#0779E4"
-        ],
-        "typography": {
-          "primary": {
-            "font_family": "Poppins",
-            "font_weight": "600"
-          },
-          "secondary": {
-            "font_family": "Poppins",
-            "font_weight": "600"
-          },
-          "body": {
-            "font_family": "Poppins",
-            "font_weight": "400"
-          },
-          "accent": {
-            "font_family": "Poppins",
-            "font_weight": "400"
-          }
-        }
-      }
     }
   }
 }
