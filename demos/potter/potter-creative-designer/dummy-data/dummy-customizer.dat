@@ -1,0 +1,12 @@
+a:4:{s:8:"template";s:6:"potter";s:4:"mods";a:26:{i:0;b:0;s:18:"nav_menu_locations";a:2:{s:9:"main_menu";i:2;s:11:"mobile_menu";i:2;}s:18:"custom_css_post_id";i:31;s:27:"potter_icon_repeater_topbar";a:1:{i:0;a:3:{s:9:"link_text";s:18:"pottericon-twitter";s:8:"link_url";s:1:"#";s:10:"link_color";s:7:"#333333";}}s:32:"potter_icon_repeater_topbar_col2";a:1:{i:0;a:3:{s:9:"link_text";s:18:"pottericon-twitter";s:8:"link_url";s:1:"#";s:10:"link_color";s:7:"#333333";}}s:19:"potter_icon_nav_bar";a:2:{i:0;a:3:{s:9:"link_text";s:18:"pottericon-twitter";s:8:"link_url";s:1:"#";s:10:"link_color";s:7:"#9b9b9b";}i:1;a:3:{s:9:"link_text";s:19:"pottericon-dribbble";s:8:"link_url";s:0:"";s:10:"link_color";s:7:"#939393";}}s:30:"potter_icon_bottom_footer_col1";a:1:{i:0;a:3:{s:9:"link_text";s:18:"pottericon-twitter";s:8:"link_url";s:1:"#";s:10:"link_color";s:7:"#333333";}}s:30:"potter_icon_bottom_footer_col2";a:1:{i:0;a:3:{s:9:"link_text";s:18:"pottericon-twitter";s:8:"link_url";s:1:"#";s:10:"link_color";s:7:"#333333";}}s:13:"menu_position";s:13:"menu-vertical";s:18:"vertical_nav_width";s:5:"300px";s:11:"custom_logo";i:16;s:30:"vertical_nav_content_alignment";s:6:"center";s:16:"background_color";s:6:"eaebf9";s:16:"page_font_toggle";b:1;s:16:"page_font_family";a:6:{s:11:"font-family";s:7:"Raleway";s:7:"variant";s:3:"200";s:14:"text-transform";s:10:"capitalize";s:11:"font-backup";s:0:"";s:11:"font-weight";i:200;s:10:"font-style";s:6:"normal";}s:15:"menu_font_color";s:7:"#6b6b6b";s:14:"menu_font_size";s:4:"22px";s:24:"vertical_nav_top_padding";s:5:"154px";s:14:"menu_icon_link";b:1;s:23:"menu_top_bottom_padding";s:2:"17";s:19:"menu_font_color_alt";s:7:"#212121";s:21:"menu_item_hover_style";s:4:"none";s:14:"menu_icon_size";s:2:"21";s:21:"menu_logo_size_tablet";s:2:"45";s:23:"menu_font_family_toggle";b:1;s:16:"menu_font_family";a:6:{s:11:"font-family";s:7:"inherit";s:7:"variant";s:0:"";s:14:"text-transform";s:9:"uppercase";s:11:"font-backup";s:0:"";s:11:"font-weight";i:0;s:10:"font-style";s:0:"";}}s:7:"options";a:2:{s:9:"site_icon";s:1:"0";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:206:".potter-no-sidebar .alignfull {
+	margin-left: 0px;
+	margin-right: 0px;
+}
+html {
+  scroll-behavior: smooth;
+}
+.potter-sidebar-wrapper {
+	position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
+}";}
